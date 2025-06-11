@@ -44,12 +44,12 @@ If you find this list helpful, contributions are welcome via pull requests.
 | 2025.5 | [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648)                                          | arXiv     |
 | 2025.5 | [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)                            | arXiv     |
 | 2025.5 | [O2-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](https://arxiv.org/abs/2505.16582)          | arXiv     |
-| 2025.3 | [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)                      | arXiv     |
 | 2025.4 | [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776)                       | arXiv     |
 | 2025.4 | [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/abs/2504.04736)                                | arXiv     |
 | 2025.4 | [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160)     | arXiv     |
 | 2025.3 | [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)                      | arXiv     |
 | 2025.3 | [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592)                | arXiv     |
+| 2025.3 | [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)                      | arXiv     |
 | 2025.3 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)        | arXiv     |
 
 ### Non-RL-based Methods
