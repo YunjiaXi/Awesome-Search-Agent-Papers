@@ -111,6 +111,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.7	 | [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training](https://arxiv.org/abs/2508.00414)	| arXiv	|
 | 2025.5  | [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/abs/2505.16834)                                                  | arXiv         |
 | 2025.5  | [Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers](https://arxiv.org/abs/2505.20128)                                                            | arXiv         |
 | 2025.4  | [KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search](https://arxiv.org/abs/2501.18922)                                                              | ICML 2025     |
