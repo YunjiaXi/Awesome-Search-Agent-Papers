@@ -111,6 +111,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8	 | [TURA: Tool-Augmented Unified Retrieval Agent for AI Search](https://arxiv.org/abs/2508.04604) | arXiv	|
 | 2025.7	 | [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training](https://arxiv.org/abs/2508.00414)	| arXiv	|
 | 2025.5  | [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/abs/2505.16834)                                                  | arXiv         |
 | 2025.5  | [Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers](https://arxiv.org/abs/2505.20128)                                                            | arXiv         |
@@ -128,6 +129,10 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [Lucy: edgerunning agentic web search on mobile with machine generated task vectors](https://arxiv.org/abs/2508.00360) | arXiv	|
+| 2025.8  | [MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation](https://arxiv.org/abs/2508.01005)	| arXiv	|
+| 2025.8  | [Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy](https://arxiv.org/abs/2508.01696) | arXiv |	
+| 2025.8  | [GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning](https://arxiv.org/abs/2508.05498)  |	arXiv |	
 | 2025.7	 | [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061)	| arXiv |	
 | 2025.7  | [DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2507.17365)                                          | arXiv         |
 | 2025.7  | [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592)                                                                                    | arXiv         |
@@ -209,6 +214,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Name        | Title                                                                                                                                                                      | Venue           |
 | :---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| LiveDRBench | [Characterizing Deep Research: A Benchmark and Formal Definition](https://arxiv.org/abs/2508.04183) | arXiv 2025	|
 | Mocheg      | [End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models](https://arxiv.org/abs/2205.12487)                                      | SIGIR 2023      |
 | MFC-Bench   | [MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models](https://arxiv.org/abs/2406.11288)                                                    | ICLR 2025 Workshop|
 | RealFactBench | [RealFactBench: A Benchmark for Evaluating Large Language Models in Real-World Fact-Checking](https://www.arxiv.org/abs/2506.12538)                                       | arXiv 2025      |
