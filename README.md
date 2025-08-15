@@ -62,6 +62,10 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105)  |  arXiv |
+| 2025.8  | [Improving and Evaluating Open Deep Research Agents](https://arxiv.org/abs/2508.10152) | arXiv |
+| 2025.8  | [BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair](https://arxiv.org/abs/2508.09129)  |  arXiv  |
+| 2025.8  | [Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2508.08816) | arXiv |
 | 2025.7  | [SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search](https://arxiv.org/abs/2507.15245)                                                              | arXiv         |
 | 2025.7  | [Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications](https://arxiv.org/abs/2507.16507)                                                 | arXiv         |
 | 2025.7  | [Deep Researcher with Test-Time Diffusion](https://arxiv.org/abs/2507.16075v1)                                                                                                  | arXiv         |
@@ -129,6 +133,12 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches](https://arxiv.org/abs/2508.08088) | arXiv |
+| 2025.8  | [REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.08149)  | arXiv |
+| 2025.8  | [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/abs/2508.07976)  | arXiv | 
+| 2025.8  | [SSRL: Self-Search Reinforcement Learning](https://arxiv.org/abs/2508.10874) | arXiv | 
+| 2025.8  | [UR2: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/abs/2508.06165) | arXiv |
+| 2025.8  | [ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning](https://arxiv.org/abs/2508.09303) | arXiv |	
 | 2025.8  | [Lucy: edgerunning agentic web search on mobile with machine generated task vectors](https://arxiv.org/abs/2508.00360) | arXiv	|
 | 2025.8  | [MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation](https://arxiv.org/abs/2508.01005)	| arXiv	|
 | 2025.8  | [Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy](https://arxiv.org/abs/2508.01696) | arXiv |	
@@ -209,6 +219,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 | MMSearch        | [MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://arxiv.org/abs/2409.12959)                                                   | arXiv 2024    |
 | ScholarSearch  | [ScholarSearch: Benchmarking Scholar Searching Ability of LLMs](https://arxiv.org/abs/2506.13784)                                                                        | arXiv 2025    |
 | Mind2Web 2     | [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506)                                                                           | arXiv 2025    |
+| BrowseComp-Plus | [BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent](https://arxiv.org/abs/2508.06600)  |  arXiv 2025 |
 
 ### Fact-checking dataset
 
@@ -275,6 +286,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 | RAGChecker   | [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](https://arxiv.org/abs/2408.08067)                                                    | arXiv 2024    |
 | DRComparator | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](https://arxiv.org/abs/2507.05495)                                       | arXiv 2025    |
 | RAVine       | [RAVine: Reality-Aligned Evaluation for Agentic Search](https://arxiv.org/abs/2507.16725)                                                                                 | arXiv 2025    |
+| WideSearch   | [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://arxiv.org/abs/2508.07999)  | arXiv 2025 | 
 
 
 Feel free to open an issue or PR to add new papers and benchmarks!
