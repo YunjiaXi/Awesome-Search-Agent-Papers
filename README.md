@@ -133,6 +133,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748)  | arXiv |
 | 2025.8  | [HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches](https://arxiv.org/abs/2508.08088) | arXiv |
 | 2025.8  | [REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.08149)  | arXiv |
 | 2025.8  | [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/abs/2508.07976)  | arXiv | 
@@ -143,6 +144,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 | 2025.8  | [MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation](https://arxiv.org/abs/2508.01005)	| arXiv	|
 | 2025.8  | [Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy](https://arxiv.org/abs/2508.01696) | arXiv |	
 | 2025.8  | [GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning](https://arxiv.org/abs/2508.05498)  |	arXiv |	
+| 2025.7  | [Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849) | arXiv |
 | 2025.7	 | [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061)	| arXiv |	
 | 2025.7  | [DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2507.17365)                                          | arXiv         |
 | 2025.7  | [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592)                                                                                    | arXiv         |
@@ -150,6 +152,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 | 2025.6  | [Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification](https://www.arxiv.org/abs/2506.07528)                                                 | arXiv         |
 | 2025.6  | [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2506.04185)                                                       | arXiv         |
 | 2025.6  | [KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models](https://arxiv.org/abs/2506.19466)                                            | arXiv         |
+| 2025.5  | [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410)  | arXiv |
 | 2025.5  | [Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs](https://arxiv.org/abs/2505.11277)                                                              | arXiv         |
 | 2025.5  | [Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty](https://arxiv.org/abs/2505.17281)                                                                | arXiv         |
 | 2025.5  | [Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging](https://arxiv.org/abs/2505.09316)                                                           | arXiv         |
