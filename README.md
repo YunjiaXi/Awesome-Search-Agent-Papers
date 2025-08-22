@@ -133,6 +133,9 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)  | arXiv |
+| 2025.8  | [MedReseacher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework](https://arxiv.org/abs/2508.14880)  | arXiv	|
+| 2025.8  | [Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/abs/2508.05748)  |  arXiv |
 | 2025.8  | [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748)  | arXiv |
 | 2025.8  | [HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches](https://arxiv.org/abs/2508.08088) | arXiv |
 | 2025.8  | [REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.08149)  | arXiv |
@@ -223,6 +226,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 | ScholarSearch  | [ScholarSearch: Benchmarking Scholar Searching Ability of LLMs](https://arxiv.org/abs/2506.13784)                                                                        | arXiv 2025    |
 | Mind2Web 2     | [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506)                                                                           | arXiv 2025    |
 | BrowseComp-Plus | [BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent](https://arxiv.org/abs/2508.06600)  |  arXiv 2025 |
+| MM-BrowseComp  | [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186) | arXiv 2025 |
 
 ### Fact-checking dataset
 
@@ -275,6 +279,7 @@ If you find this list helpful, contributions are welcome via pull requests.
 | GAIA            | [GAIA: a benchmark for general AI assistants.](https://arxiv.org/abs/2311.12983)                                                                                         | arXiv 2023    |
 | HLE             | [Humanity's Last Exam](https://arxiv.org/abs/2501.14249)                                                                                                                | arXiv 2025    |
 | HERB            | [Benchmarking Deep Search over Heterogeneous Enterprise Data](https://arxiv.org/abs/2506.23139)                                                                          | arXiv 2025    |
+| FinAgentBench  | [FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](https://arxiv.org/abs/2508.14052) | arXiv 2025 |
 
 ### Other Aspect
 
