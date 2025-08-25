@@ -298,3 +298,13 @@ If you find this list helpful, contributions are welcome via pull requests.
 
 
 Feel free to open an issue or PR to add new papers and benchmarks!
+
+## Citations
+```
+@article{xi2025survey,
+  title={A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges},
+  author={Xi, Yunjia and Lin, Jianghao and Xiao, Yongzhao and Zhou, Zheli and Shan, Rong and Gao, Te and Zhu, Jiachen and Liu, Weiwen and Yu, Yong and Zhang, Weinan},
+  journal={arXiv preprint arXiv:2508.05668},
+  year={2025}
+}
+```
