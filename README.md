@@ -142,6 +142,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [OPERA: A Reinforcement Learning--Enhanced Orchestrated Planner-Executor Architecture for Reasoning-Oriented Multi-Hop Retrieval](https://arxiv.org/abs/2508.16438)  | arXiv |
 | 2025.8  | [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)  | arXiv |
 | 2025.8  | [MedReseacher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework](https://arxiv.org/abs/2508.14880)  | arXiv	|
 | 2025.8  | [Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/abs/2508.05748)  |  arXiv |
@@ -268,6 +269,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | ProxyQA              | [PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models](https://arxiv.org/abs/2401.15042)                               | ACL 2024          |
 | Long2RAG             | [Long2RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall](https://arxiv.org/abs/2410.23000)                                | EMNLP 2024        |
 | ResearcherBench      | [ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://arxiv.org/abs/2507.16280)                                       | arXiv 2025        |
+| ReportBench  |  [ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks](http://arxiv.org/abs/2508.15804) | arXiv 2025  |
 
 ### Domain-specific dataset
 
