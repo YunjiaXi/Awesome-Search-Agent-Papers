@@ -92,6 +92,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.3  | [Open deep search: Democratizing search with open-source reasoning agents.](https://arxiv.org/abs/2503.20201)                                                                    | arXiv         |
 | 2025.3  | [MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search](https://arxiv.org/abs/2503.20757)                                                              | arXiv         |
 | 2025.3  | [Agentic RAG with Human-in-the-Retrieval](https://www.computer.org/csdl/proceedings-article/icsa-c/2025/333600a498/278QVgyUK2I)                                                   | ICSA-C 2025   |
+| 2025.2  | [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)  | ACL 2025 |
 | 2025.2  | [Holistically Guided Monte Carlo Tree Search for Intricate Information Seeking](https://arxiv.org/abs/2502.04751)                                                                | arXiv         |
 | 2025.2  | [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://arxiv.org/pdf/2502.18017)                                               | arxiv         |
 | 2025.2  | [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/abs/2502.04644)                                                                           | arXiv         |
@@ -124,6 +125,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8   |  [Hybrid Deep Searcher: Integrating Parallel and Sequential Search Reasoning](https://arxiv.org/abs/2508.19113)  |  arXiv |
 | 2025.8	 | [TURA: Tool-Augmented Unified Retrieval Agent for AI Search](https://arxiv.org/abs/2508.04604) | arXiv	|
 | 2025.7	 | [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training](https://arxiv.org/abs/2508.00414)	| arXiv	|
 | 2025.5  | [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/abs/2505.16834)                                                  | arXiv         |
@@ -142,6 +144,10 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.8  | [Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](https://arxiv.org/abs/2508.20324)  | arXiv |
+| 2025.8  | [AWorld: Orchestrating the Training Recipe for Agentic AI](https://arxiv.org/abs/2508.20404)  |  arXiv |
+| 2025.8  | [AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2508.20368)  |  arXiv |
+| 2025.8  | [Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153v2)  | arXiv  |
 | 2025.8  | [OPERA: A Reinforcement Learning--Enhanced Orchestrated Planner-Executor Architecture for Reasoning-Oriented Multi-Hop Retrieval](https://arxiv.org/abs/2508.16438)  | arXiv |
 | 2025.8  | [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)  | arXiv |
 | 2025.8  | [MedReseacher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework](https://arxiv.org/abs/2508.14880)  | arXiv	|
@@ -165,6 +171,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.6  | [Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification](https://www.arxiv.org/abs/2506.07528)                                                 | arXiv         |
 | 2025.6  | [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2506.04185)                                                       | arXiv         |
 | 2025.6  | [KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models](https://arxiv.org/abs/2506.19466)                                            | arXiv         |
+| 2025.5  | [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246)  |  arXiv  |
 | 2025.5  | [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410)  | arXiv |
 | 2025.5  | [Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs](https://arxiv.org/abs/2505.11277)                                                              | arXiv         |
 | 2025.5  | [Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty](https://arxiv.org/abs/2505.17281)                                                                | arXiv         |
@@ -237,6 +244,11 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | Mind2Web 2     | [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506)                                                                           | arXiv 2025    |
 | BrowseComp-Plus | [BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent](https://arxiv.org/abs/2508.06600)  |  arXiv 2025 |
 | MM-BrowseComp  | [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186) | arXiv 2025 |
+| WebShaperQA | [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061) | arXiv 2025 |
+| WebWalkerQA  | [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)  |  ACL 2025 |
+| BrowseComp-VL  | [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) | arXiv 2025 |
+| MAT-Search  | [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) | arXiv 2025 |
+
 
 ### Fact-checking dataset
 
@@ -270,6 +282,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | Long2RAG             | [Long2RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall](https://arxiv.org/abs/2410.23000)                                | EMNLP 2024        |
 | ResearcherBench      | [ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://arxiv.org/abs/2507.16280)                                       | arXiv 2025        |
 | ReportBench  |  [ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks](http://arxiv.org/abs/2508.15804) | arXiv 2025  |
+| DeepScholar-Bench  |	[DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis](https://arxiv.org/abs/2508.20033)  |  arXiv 2025 |
 
 ### Domain-specific dataset
 
