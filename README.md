@@ -71,6 +71,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9  | [Deep Research is the New Analytics System: Towards Building the Runtime for AI-Driven Analytics](https://arxiv.org/abs/2509.02751)  |  arXiv |
+| 2025.9  | [L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search](https://arxiv.org/abs/2509.00761)  | arXiv |
+| 2025.9  | [Universal Deep Research: Bring Your Own Model and Strategy](https://arxiv.org/abs/2509.00244)  | arXiv |
 | 2025.8  | [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105)  |  arXiv |
 | 2025.8  | [Improving and Evaluating Open Deep Research Agents](https://arxiv.org/abs/2508.10152) | arXiv |
 | 2025.8  | [BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair](https://arxiv.org/abs/2508.09129)  |  arXiv  |
@@ -144,6 +147,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9  | [VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use](https://arxiv.org/abs/2509.01055)  |  arXiv |
+| 2025.9  | [Open Data Synthesis For Deep Research](https://arxiv.org/abs/2509.00375)  | arXiv |
 | 2025.8  | [Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](https://arxiv.org/abs/2508.20324)  | arXiv |
 | 2025.8  | [AWorld: Orchestrating the Training Recipe for Agentic AI](https://arxiv.org/abs/2508.20404)  |  arXiv |
 | 2025.8  | [AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2508.20368)  |  arXiv |
@@ -248,6 +253,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | WebWalkerQA  | [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572)  |  ACL 2025 |
 | BrowseComp-VL  | [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) | arXiv 2025 |
 | MAT-Search  | [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) | arXiv 2025 |
+| MMSearch-Plus  |  [MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.21475)  | arXiv 2025 |	
 
 
 ### Fact-checking dataset
@@ -283,6 +289,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | ResearcherBench      | [ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://arxiv.org/abs/2507.16280)                                       | arXiv 2025        |
 | ReportBench  |  [ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks](http://arxiv.org/abs/2508.15804) | arXiv 2025  |
 | DeepScholar-Bench  |	[DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis](https://arxiv.org/abs/2508.20033)  |  arXiv 2025 |
+| ResearchQA  |  [ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics](http://arxiv.org/abs/2509.00496)  |  arXiv 2025 |
+| DeepResearch Arena  | [DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks](https://arxiv.org/abs/2509.01396)  |  arXiv 2025 |
 
 ### Domain-specific dataset
 
