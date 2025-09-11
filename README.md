@@ -147,6 +147,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9  | [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501)  | arXiv |
+| 2025.9  | [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.08755)  |  arXiv |
+| 2025.9  | [SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents](https://arxiv.org/abs/2509.06283) | arXiv |
 | 2025.9  | [VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use](https://arxiv.org/abs/2509.01055)  |  arXiv |
 | 2025.9  | [Open Data Synthesis For Deep Research](https://arxiv.org/abs/2509.00375)  | arXiv |
 | 2025.8  | [Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](https://arxiv.org/abs/2508.20324)  | arXiv |
@@ -291,6 +294,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DeepScholar-Bench  |	[DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis](https://arxiv.org/abs/2508.20033)  |  arXiv 2025 |
 | ResearchQA  |  [ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics](http://arxiv.org/abs/2509.00496)  |  arXiv 2025 |
 | DeepResearch Arena  | [DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks](https://arxiv.org/abs/2509.01396)  |  arXiv 2025 |
+| DeepTRACE  |  [DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence](https://arxiv.org/abs/2509.04499)  |  arXiv 2025 |
 
 ### Domain-specific dataset
 
