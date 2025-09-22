@@ -128,6 +128,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9   |  [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research](https://arxiv.org/abs/2509.13312)  |  arXiv |
 | 2025.8   |  [Hybrid Deep Searcher: Integrating Parallel and Sequential Search Reasoning](https://arxiv.org/abs/2508.19113)  |  arXiv |
 | 2025.8	 | [TURA: Tool-Augmented Unified Retrieval Agent for AI Search](https://arxiv.org/abs/2508.04604) | arXiv	|
 | 2025.7	 | [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training](https://arxiv.org/abs/2508.00414)	| arXiv	|
@@ -147,6 +148,11 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9  |  [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/abs/2509.13311)  | arXiv |
+| 2025.9  |  [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313) | arXiv	|
+| 2025.9  |  [WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning](https://arxiv.org/abs/2509.13305)  | arXiv	|
+| 2025.9  |  [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/abs/2509.13309)  | arXiv	 |
+| 2025.9  |  [Scaling Agents via Continual Pre-training](https://arxiv.org/abs/2509.13310)	| arXiv |
 | 2025.9  | [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501)  | arXiv |
 | 2025.9  | [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.08755)  |  arXiv |
 | 2025.9  | [SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents](https://arxiv.org/abs/2509.06283) | arXiv |
@@ -316,6 +322,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | HLE             | [Humanity's Last Exam](https://arxiv.org/abs/2501.14249)                                                                                                                | arXiv 2025    |
 | HERB            | [Benchmarking Deep Search over Heterogeneous Enterprise Data](https://arxiv.org/abs/2506.23139)                                                                          | arXiv 2025    |
 | FinAgentBench  | [FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](https://arxiv.org/abs/2508.14052) | arXiv 2025 |
+| FinSearchComp  | [FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning](https://arxiv.org/abs/2509.13160)  |  arXiv 2025	|
 
 ### Other Aspect
 
