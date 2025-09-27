@@ -71,6 +71,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9  |  [ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](https://arxiv.org/abs/2509.18063)  | arXiv	|
+| 2025.9  | [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://arxiv.org/abs/2509.21072)  | arXiv	|
+| 2025.9  | [InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding](https://arxiv.org/abs/2509.16534) | arXiv |
 | 2025.9  | [Deep Research is the New Analytics System: Towards Building the Runtime for AI-Driven Analytics](https://arxiv.org/abs/2509.02751)  |  arXiv |
 | 2025.9  | [L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search](https://arxiv.org/abs/2509.00761)  | arXiv |
 | 2025.9  | [Universal Deep Research: Bring Your Own Model and Strategy](https://arxiv.org/abs/2509.00244)  | arXiv |
@@ -128,6 +131,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9   | [AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation](https://arxiv.org/abs/2509.16952) | arXiv	|
 | 2025.9   |  [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research](https://arxiv.org/abs/2509.13312)  |  arXiv |
 | 2025.8   |  [Hybrid Deep Searcher: Integrating Parallel and Sequential Search Reasoning](https://arxiv.org/abs/2508.19113)  |  arXiv |
 | 2025.8	 | [TURA: Tool-Augmented Unified Retrieval Agent for AI Search](https://arxiv.org/abs/2508.04604) | arXiv	|
@@ -148,6 +152,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.9  |  [SIRAG: Towards Stable and Interpretable RAG with A Process-Supervised Multi-Agent Framework](https://arxiv.org/abs/2509.18167)  | arXiv	|
 | 2025.9  |  [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/abs/2509.13311)  | arXiv |
 | 2025.9  |  [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313) | arXiv	|
 | 2025.9  |  [WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning](https://arxiv.org/abs/2509.13305)  | arXiv	|
@@ -323,6 +328,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | HERB            | [Benchmarking Deep Search over Heterogeneous Enterprise Data](https://arxiv.org/abs/2506.23139)                                                                          | arXiv 2025    |
 | FinAgentBench  | [FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](https://arxiv.org/abs/2508.14052) | arXiv 2025 |
 | FinSearchComp  | [FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning](https://arxiv.org/abs/2509.13160)  |  arXiv 2025	|
+| AirQA  | [AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation](https://arxiv.org/abs/2509.16952)  | arXiv 2025	|
 
 ### Other Aspect
 
