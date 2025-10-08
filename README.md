@@ -71,6 +71,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10 |  [FlashResearch: Real-time Agent Orchestration for Efficient Deep Research](https://arxiv.org/abs/2510.05145)  | arXiv	|
+| 2025.10 |  [Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification](https://arxiv.org/abs/2510.06135)  |  arXiv |
 | 2025.9  |  [ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](https://arxiv.org/abs/2509.18063)  | arXiv	|
 | 2025.9  | [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://arxiv.org/abs/2509.21072)  | arXiv	|
 | 2025.9  | [InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding](https://arxiv.org/abs/2509.16534) | arXiv |
@@ -152,6 +154,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	|  [Beyond Outcome Reward: Decoupling Search and Answering Improves LLM Agents](https://arxiv.org/abs/2510.04695)	| arXiv	|
+| 2025.10 |  [MARS: Optimizing Dual-System Deep Research via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.04935)	| arXiv	|
+| 2025.10 |  [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](https://arxiv.org/abs/2510.06214)	| arXiv	|
 | 2025.9  |  [SIRAG: Towards Stable and Interpretable RAG with A Process-Supervised Multi-Agent Framework](https://arxiv.org/abs/2509.18167)  | arXiv	|
 | 2025.9  |  [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/abs/2509.13311)  | arXiv |
 | 2025.9  |  [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313) | arXiv	|
@@ -306,6 +311,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | ResearchQA  |  [ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics](http://arxiv.org/abs/2509.00496)  |  arXiv 2025 |
 | DeepResearch Arena  | [DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks](https://arxiv.org/abs/2509.01396)  |  arXiv 2025 |
 | DeepTRACE  |  [DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence](https://arxiv.org/abs/2509.04499)  |  arXiv 2025 |
+| RigorousBench | [A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports](https://arxiv.org/abs/2510.02190) |	arXiv 2025	|
 
 ### Domain-specific dataset
 
