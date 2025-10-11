@@ -71,6 +71,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	|  [FlowSearch: Advancing deep research with dynamic structured knowledge flow](https://arxiv.org/abs/2510.08521) | arXiv	|
 | 2025.10 |  [FlashResearch: Real-time Agent Orchestration for Efficient Deep Research](https://arxiv.org/abs/2510.05145)  | arXiv	|
 | 2025.10 |  [Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification](https://arxiv.org/abs/2510.06135)  |  arXiv |
 | 2025.9  |  [ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](https://arxiv.org/abs/2509.18063)  | arXiv	|
@@ -154,6 +155,10 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	| [Beyond Turn Limits: Training Deep Search Agents with Dynamic Context Window](https://arxiv.org/abs/2510.08276) | arXiv	|
+| 2025.10	| [QAgent: A modular Search Agent with Interactive Query Understanding](https://arxiv.org/abs/2510.08383)	| arXiv	|
+| 2025.10	| [A2Search: Ambiguity-Aware Question Answering with Reinforcement Learning](https://arxiv.org/abs/2510.07958) | arXiv	|
+| 2025.10	| [HiPRAG: Hierarchical Process Rewards for Efficient Agentic Retrieval Augmented Generation](https://arxiv.org/abs/2510.07794) | arXiv |
 | 2025.10	|  [Search-R3: Unifying Reasoning and Embedding Generation in Large Language Models](https://arxiv.org/abs/2510.07048) |	arXiv	|
 | 2025.10	|  [Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them](https://arxiv.org/abs/2510.06534)	| arXiv	|
 | 2025.10	|  [ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards](https://arxiv.org/abs/2510.00568)	| arXiv	|
@@ -319,6 +324,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | RigorousBench | [A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports](https://arxiv.org/abs/2510.02190) |	arXiv 2025	|
 | SurveyBench	| [SurveyBench: How Well Can LLM(-Agents) Write Academic Surveys?](https://arxiv.org/abs/2510.03120) |	arXiv 2025	|
 | DRBench	| [DRBench: A Realistic Benchmark for Enterprise Deep Research](https://arxiv.org/abs/2510.00172) 	| arXiv 2025	|
+| REPORTEVAL | [Understanding DeepResearch via Reports](https://arxiv.org/abs/2510.07861) | arXiv 2025 |
 
 ### Domain-specific dataset
 
