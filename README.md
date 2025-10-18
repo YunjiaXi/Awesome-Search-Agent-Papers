@@ -71,6 +71,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	|  [Where to Search: Measure the Prior-Structured Search Space of LLM Agents](https://arxiv.org/abs/2510.14846)	| arXiv |		
+| 2025.10	|  [PRISM: Agentic Retrieval with LLMs for Multi-Hop Question Answering](https://arxiv.org/abs/2510.14278	)	| arXiv	|
+| 2025.10	|  [Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning](https://arxiv.org/abs/2510.13214) | arXiv	|
+| 2025.10	|  [ResearStudio: A Human-Intervenable Framework for Building Controllable Deep-Research Agents](https://arxiv.org/abs/2510.12194) | arXiv	|	
+| 2025.10	|  [FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654) | arXiv	|
+| 2025.10	|  [DualResearch: Entropy-Gated Dual-Graph Retrieval for Answer Reconstruction](https://arxiv.org/abs/2510.08959) | arXiv	|	
 | 2025.10	|  [FlowSearch: Advancing deep research with dynamic structured knowledge flow](https://arxiv.org/abs/2510.08521) | arXiv	|
 | 2025.10 |  [FlashResearch: Real-time Agent Orchestration for Efficient Deep Research](https://arxiv.org/abs/2510.05145)  | arXiv	|
 | 2025.10 |  [Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification](https://arxiv.org/abs/2510.06135)  |  arXiv |
@@ -134,6 +140,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	 | [Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms](https://arxiv.org/abs/2510.13913)	| arXiv	|
+| 2025.10	 | [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666) | arXiv |
 | 2025.9   | [AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation](https://arxiv.org/abs/2509.16952) | arXiv	|
 | 2025.9   |  [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research](https://arxiv.org/abs/2509.13312)  |  arXiv |
 | 2025.8   |  [Hybrid Deep Searcher: Integrating Parallel and Sequential Search Reasoning](https://arxiv.org/abs/2508.19113)  |  arXiv |
@@ -155,6 +163,15 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10 | [PoU: Proof-of-Use to Counter Tool-Call Hacking in DeepResearch Agents](https://arxiv.org/abs/2510.10931) | arXiv |
+| 2025.10	| [DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping](https://arxiv.org/abs/2510.12979) | arXiv	|
+| 2025.10	| [Stop-RAG: Value-Based Retrieval Control for Iterative RAG](https://arxiv.org/abs/2510.14337) | arXiv	|
+| 2025.10 | [Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering](https://arxiv.org/abs/2510.14605) | arXiv	|
+| 2025.10 | [Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545) | arXiv	|
+| 2025.10	| [An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs](https://arxiv.org/abs/2510.14660) | arXiv	|
+| 2025.10	| [Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2510.14967) | arXiv	|
+| 2025.10	| [Towards Agentic Self-Learning LLMs in Search Environment](https://arxiv.org/abs/2510.14253) | arXiv	|
+| 2025.10	| [From Faithfulness to Correctness: Generative Reward Models that Think Critically](https://arxiv.org/abs/2509.25409)	| arXiv	|
 | 2025.10	| [Beyond Turn Limits: Training Deep Search Agents with Dynamic Context Window](https://arxiv.org/abs/2510.08276) | arXiv	|
 | 2025.10	| [QAgent: A modular Search Agent with Interactive Query Understanding](https://arxiv.org/abs/2510.08383)	| arXiv	|
 | 2025.10	| [A2Search: Ambiguity-Aware Question Answering with Reinforcement Learning](https://arxiv.org/abs/2510.07958) | arXiv	|
@@ -283,6 +300,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | MAT-Search  | [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) | arXiv 2025 |
 | MMSearch-Plus  |  [MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.21475)  | arXiv 2025 |	
 | WebDetective	|  [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137) |	arXiv 2025	|
+| PaperArena | [PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature](https://arxiv.org/abs/2510.10909) | arXiv 2025 |
 
 
 ### Fact-checking dataset
@@ -325,6 +343,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | SurveyBench	| [SurveyBench: How Well Can LLM(-Agents) Write Academic Surveys?](https://arxiv.org/abs/2510.03120) |	arXiv 2025	|
 | DRBench	| [DRBench: A Realistic Benchmark for Enterprise Deep Research](https://arxiv.org/abs/2510.00172) 	| arXiv 2025	|
 | REPORTEVAL | [Understanding DeepResearch via Reports](https://arxiv.org/abs/2510.07861) | arXiv 2025 |
+| LiveResearchBench | [LiveResearchBench: A Live Benchmark for User-Centric Deep Research in the Wild](https://arxiv.org/abs/2510.14240) | arXiv 2025	|
 
 ### Domain-specific dataset
 
@@ -364,6 +383,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | RAVine       | [RAVine: Reality-Aligned Evaluation for Agentic Search](https://arxiv.org/abs/2507.16725)                                                                                 | arXiv 2025    |
 | WideSearch   | [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://arxiv.org/abs/2508.07999)  | arXiv 2025 | 
 | InfoMosaic-Bench	|  [InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](https://arxiv.org/abs/2510.02271)	|  arXiv 2025	|
+| DeepResearchGuard	| [DeepResearchGuard: Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety](https://arxiv.org/abs/2510.10994) | arXiv 2025	|
+| Pre-Exec Bench | [Building a Foundational Guardrail for General Agentic Systems via Synthetic Data](https://arxiv.org/abs/2510.09781) | arXiv 2025 |
 
 
 Feel free to open an issue or PR to add new papers and benchmarks!
