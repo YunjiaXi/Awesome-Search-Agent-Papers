@@ -71,6 +71,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	|  [PluriHop: Exhaustive, Recall-Sensitive QA over Distractor-Rich Corpora](https://arxiv.org/abs/2510.14377) |	arXiv	|
+| 2025.10	|  [Scaling Long-Horizon LLM Agent via Context-Folding](https://arxiv.org/abs/2510.11967) |	arXiv	|
 | 2025.10	|  [Where to Search: Measure the Prior-Structured Search Space of LLM Agents](https://arxiv.org/abs/2510.14846)	| arXiv |		
 | 2025.10	|  [PRISM: Agentic Retrieval with LLMs for Multi-Hop Question Answering](https://arxiv.org/abs/2510.14278	)	| arXiv	|
 | 2025.10	|  [Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning](https://arxiv.org/abs/2510.13214) | arXiv	|
@@ -140,10 +142,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	 | [Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents](https://arxiv.org/abs/2510.14438) | arXiv	|
 | 2025.10	 | [Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms](https://arxiv.org/abs/2510.13913)	| arXiv	|
 | 2025.10	 | [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666) | arXiv |
 | 2025.9   | [AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation](https://arxiv.org/abs/2509.16952) | arXiv	|
 | 2025.9   |  [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research](https://arxiv.org/abs/2509.13312)  |  arXiv |
+| 2025.9	 |  [Open Data Synthesis For Deep Research](https://arxiv.org/abs/2509.00375) |	arXiv	|
 | 2025.8   |  [Hybrid Deep Searcher: Integrating Parallel and Sequential Search Reasoning](https://arxiv.org/abs/2508.19113)  |  arXiv |
 | 2025.8	 | [TURA: Tool-Augmented Unified Retrieval Agent for AI Search](https://arxiv.org/abs/2508.04604) | arXiv	|
 | 2025.7	 | [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training](https://arxiv.org/abs/2508.00414)	| arXiv	|
@@ -163,6 +167,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	| [DSPO: Stable and Efficient Policy Optimization for Agentic Search and Reasoning](https://arxiv.org/abs/2510.09255) |	arXiv	|
+| 2025.10	| [Scaling Long-Horizon LLM Agent via Context-Folding](https://arxiv.org/abs/2510.11967) |	arXiv	|
+| 2025.10	| [Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation](https://arxiv.org/abs/2510.13272)	 | arXiv	|
 | 2025.10 | [PoU: Proof-of-Use to Counter Tool-Call Hacking in DeepResearch Agents](https://arxiv.org/abs/2510.10931) | arXiv |
 | 2025.10	| [DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping](https://arxiv.org/abs/2510.12979) | arXiv	|
 | 2025.10	| [Stop-RAG: Value-Based Retrieval Control for Iterative RAG](https://arxiv.org/abs/2510.14337) | arXiv	|
@@ -183,6 +190,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.10	|  [Beyond Outcome Reward: Decoupling Search and Answering Improves LLM Agents](https://arxiv.org/abs/2510.04695)	| arXiv	|
 | 2025.10 |  [MARS: Optimizing Dual-System Deep Research via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.04935)	| arXiv	|
 | 2025.10 |  [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](https://arxiv.org/abs/2510.06214)	| arXiv	|
+| 2025.9	|  [InfoAgent: Advancing Autonomous Information-Seeking Agents](https://arxiv.org/abs/2509.25189) |	arXiv	|
 | 2025.9  |  [SIRAG: Towards Stable and Interpretable RAG with A Process-Supervised Multi-Agent Framework](https://arxiv.org/abs/2509.18167)  | arXiv	|
 | 2025.9  |  [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/abs/2509.13311)  | arXiv |
 | 2025.9  |  [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313) | arXiv	|
@@ -190,6 +198,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.9  |  [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/abs/2509.13309)  | arXiv	 |
 | 2025.9  |  [Scaling Agents via Continual Pre-training](https://arxiv.org/abs/2509.13310)	| arXiv |
 | 2025.9  | [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501)  | arXiv |
+| 2025.9	| [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446v2) | arXiv	|
 | 2025.9  | [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.08755)  |  arXiv |
 | 2025.9  | [SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents](https://arxiv.org/abs/2509.06283) | arXiv |
 | 2025.9  | [VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use](https://arxiv.org/abs/2509.01055)  |  arXiv |
@@ -301,6 +310,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | MMSearch-Plus  |  [MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.21475)  | arXiv 2025 |	
 | WebDetective	|  [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137) |	arXiv 2025	|
 | PaperArena | [PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature](https://arxiv.org/abs/2510.10909) | arXiv 2025 |
+| WebAggregatorQA	| [Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents](https://arxiv.org/abs/2510.14438)	| arXiv 2025	|
+| PluriHopWIND	| [PluriHop: Exhaustive, Recall-Sensitive QA over Distractor-Rich Corpora](https://arxiv.org/abs/2510.14377)	| arXiv 2025	|
+| CRUMQs	| [Evaluating Retrieval-Augmented Generation Systems on Unanswerable, Uncheatable, Realistic, Multi-hop Queries](https://arxiv.org/abs/2510.11956)	| arXiv 2025	|
 
 
 ### Fact-checking dataset
@@ -367,6 +379,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | FinAgentBench  | [FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](https://arxiv.org/abs/2508.14052) | arXiv 2025 |
 | FinSearchComp  | [FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning](https://arxiv.org/abs/2509.13160)  |  arXiv 2025	|
 | AirQA  | [AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation](https://arxiv.org/abs/2509.16952)  | arXiv 2025	|
+| FinDeepResearch	| [FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis](https://arxiv.org/abs/2510.13936) | arXiv 2025	|
 
 ### Other Aspect
 
@@ -385,6 +398,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | InfoMosaic-Bench	|  [InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](https://arxiv.org/abs/2510.02271)	|  arXiv 2025	|
 | DeepResearchGuard	| [DeepResearchGuard: Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety](https://arxiv.org/abs/2510.10994) | arXiv 2025	|
 | Pre-Exec Bench | [Building a Foundational Guardrail for General Agentic Systems via Synthetic Data](https://arxiv.org/abs/2510.09781) | arXiv 2025 |
+| RAGCap-Bench	| [RAGCap-Bench: Benchmarking Capabilities of LLMs in Agentic Retrieval Augmented Generation Systems](https://arxiv.org/abs/2510.13910) |	arXiv 2025	|
 
 
 Feel free to open an issue or PR to add new papers and benchmarks!
