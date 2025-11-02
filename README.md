@@ -71,6 +71,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	|  [Doc-Researcher: A Unified System for Multimodal Document Parsing and Deep Research](https://arxiv.org/abs/2510.21603) |	arXiv	|
+| 2025.10	|  [Dingtalk DeepResearch: A Unified Multi Agent Framework for Adaptive Intelligence in Enterprise Environments](https://arxiv.org/abs/2510.24760) |	arXiv	|
+| 2025.10	|  [Co-Sight: Enhancing LLM-Based Agents via Conflict-Aware Meta-Verification and Trustworthy Reasoning with Structured Facts](https://arxiv.org/abs/2510.21557) |	arXiv	|
+| 2025.10	|  [FAIR-RAG: Faithful Adaptive Iterative Refinement for Retrieval-Augmented Generation](https://arxiv.org/abs/2510.22344) |	arXiv	|
+| 2025.10	|  [BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents](https://arxiv.org/abs/2510.23458) |	arXiv	|
+| 2025.10	|  [ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking](https://arxiv.org/abs/2510.24698) |	arXiv |
 | 2025.10	|  [SQuAI: Scientific Question-Answering with Multi-Agent Retrieval-Augmented Generation](https://arxiv.org/abs/2510.15682) |	arXiv	|
 | 2025.10	|  [Lost in the Maze: Overcoming Context Limitations in Long-Horizon Agentic Search](https://arxiv.org/abs/2510.18939) |	arXiv	|
 | 2025.10	|  [MIRAGE: Agentic Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](https://arxiv.org/abs/2510.17590) |	arXiv	|
@@ -149,6 +155,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	 | [AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis](https://arxiv.org/abs/2510.24695) | arXiv	|	
+| 2025.10	 | [DecoupleSearch: Decouple Planning and Search via Hierarchical Reward Modeling](https://arxiv.org/abs/2510.21712) |	arXiv	|	
+| 2025.10	 | [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699) |	arXiv	|
 | 2025.10	 | [Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents](https://arxiv.org/abs/2510.14438) | arXiv	|
 | 2025.10	 | [Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms](https://arxiv.org/abs/2510.13913)	| arXiv	|
 | 2025.10	 | [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666) | arXiv |
@@ -174,6 +183,14 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.10	| [Reinforcement Learning for Long-Horizon Multi-Turn Search Agents](https://arxiv.org/abs/2510.24126) |	arXiv	|
+| 2025.10	| [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618) |	arXiv	|
+| 2025.10	| [WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking](https://arxiv.org/abs/2510.24697) |	arXiv	|
+| 2025.10	| [KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA](https://arxiv.org/abs/2510.25101) |	arXiv	|
+| 2025.10	| [GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning](https://arxiv.org/abs/2510.25320) |	arXiv	|
+| 2025.10	| [InfoFlow: Reinforcing Search Agent Via Reward Density Optimization](https://arxiv.org/abs/2510.26575) |	arXiv	|
+| 2025.10	| [Repurposing Synthetic Data for Fine-grained Search Agent Supervision](https://arxiv.org/abs/2510.24694) |	arXiv	|
+| 2025.10	| [Tongyi DeepResearch Technical Report](https://arxiv.org/abs/2510.24701) |	arXiv	|
 | 2025.10	| [Cost-Aware Retrieval-Augmentation Reasoning Models with Adaptive Retrieval Depth](https://arxiv.org/abs/2510.15719) |	arXiv	|
 | 2025.10	| [SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents](https://arxiv.org/abs/2510.17017) |	arXiv	|
 | 2025.10	| [Agentic Reinforcement Learning for Search is Unsafe](https://arxiv.org/abs/2510.17431) |	arXiv	|
@@ -326,6 +343,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | WebAggregatorQA	| [Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents](https://arxiv.org/abs/2510.14438)	| arXiv 2025	|
 | PluriHopWIND	| [PluriHop: Exhaustive, Recall-Sensitive QA over Distractor-Rich Corpora](https://arxiv.org/abs/2510.14377)	| arXiv 2025	|
 | CRUMQs	| [Evaluating Retrieval-Augmented Generation Systems on Unanswerable, Uncheatable, Realistic, Multi-hop Queries](https://arxiv.org/abs/2510.11956)	| arXiv 2025	|
+| InteractComp	| [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://arxiv.org/abs/2510.24668) |	arXiv 2025	|
 
 
 ### Fact-checking dataset
@@ -344,6 +362,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | EX-FEVER    | [EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification](https://arxiv.org/abs/2310.09754)                                                                       | ACL 2024        |
 | FEVEROUS    | [FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information](https://arxiv.org/abs/2106.05707)                                               | NeurIPS 2021    |
 | FactBench   | [FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation](https://arxiv.org/abs/2410.22257)                                                   | arXiv 2024      |
+| QuanTemp++ |	[A Benchmark for Open-Domain Numerical Fact-Checking Enhanced by Claim Decompositio](https://arxiv.org/abs/2510.22055) |	arXiv 2025	|
 
 ### Open-domain QA for Deep Research
 
