@@ -71,6 +71,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.11	|  [Evidence-Bound Autonomous Research (EviBound): A Governance Framework for Eliminating False Claims](https://arxiv.org/abs/2511.05524)	| arXiv	|
+| 2025.11	|  [Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification](https://arxiv.org/abs/2511.03217)	| arXiv |
 | 2025.10	|  [Doc-Researcher: A Unified System for Multimodal Document Parsing and Deep Research](https://arxiv.org/abs/2510.21603) |	arXiv	|
 | 2025.10	|  [Dingtalk DeepResearch: A Unified Multi Agent Framework for Adaptive Intelligence in Enterprise Environments](https://arxiv.org/abs/2510.24760) |	arXiv	|
 | 2025.10	|  [Co-Sight: Enhancing LLM-Based Agents via Conflict-Aware Meta-Verification and Trustworthy Reasoning with Structured Facts](https://arxiv.org/abs/2510.21557) |	arXiv	|
@@ -155,6 +157,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.11	 | [SynClaimEval: A Framework for Evaluating the Utility of Synthetic Data in Long-Context Claim Verification](https://arxiv.org/abs/2511.09539) |	arXiv	|
+| 2025.11	 | [REAP: Enhancing RAG with Recursive Evaluation and Adaptive Planning for Multi-Hop Question Answering](https://arxiv.org/abs/2511.09966)	| arXiv |
 | 2025.10	 | [AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis](https://arxiv.org/abs/2510.24695) | arXiv	|	
 | 2025.10	 | [DecoupleSearch: Decouple Planning and Search via Hierarchical Reward Modeling](https://arxiv.org/abs/2510.21712) |	arXiv	|	
 | 2025.10	 | [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699) |	arXiv	|
@@ -183,6 +187,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.11	| [Think Before You Retrieve: Learning Test-Time Adaptive Search with Small Language Models](https://arxiv.org/abs/2511.07581) |	arXiv	|
+| 2025.11	| [Thinker: Training LLMs in Hierarchical Thinking for Deep Search via Multi-Turn Interaction](https://arxiv.org/abs/2511.07943) |	arXiv	|
+| 2025.11	| [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://arxiv.org/abs/2511.05385) |	arXiv	|
+| 2025.11	| [IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction](https://arxiv.org/abs/2511.07327) |	arXiv	|
+| 2025.11	| [Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning](https://arxiv.org/abs/2511.09109) |	arXiv	|
+| 2025.11	| [MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning](https://arxiv.org/abs/2511.02805) |	arXiv	|
 | 2025.10	| [Reinforcement Learning for Long-Horizon Multi-Turn Search Agents](https://arxiv.org/abs/2510.24126) |	arXiv	|
 | 2025.10	| [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618) |	arXiv	|
 | 2025.10	| [WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking](https://arxiv.org/abs/2510.24697) |	arXiv	|
@@ -389,6 +399,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | REPORTEVAL | [Understanding DeepResearch via Reports](https://arxiv.org/abs/2510.07861) | arXiv 2025 |
 | LiveResearchBench | [LiveResearchBench: A Live Benchmark for User-Centric Deep Research in the Wild](https://arxiv.org/abs/2510.14240) | arXiv 2025	|
 | DeepWideSearch	| [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://arxiv.org/abs/2510.20168) |	arXiv 2025	|
+| ResearchRubrics	| [ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents](https://arxiv.org/abs/2511.07685) |	arXiv 2025	|
 
 ### Domain-specific dataset
 
@@ -413,6 +424,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | FinSearchComp  | [FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning](https://arxiv.org/abs/2509.13160)  |  arXiv 2025	|
 | AirQA  | [AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation](https://arxiv.org/abs/2509.16952)  | arXiv 2025	|
 | FinDeepResearch	| [FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis](https://arxiv.org/abs/2510.13936) | arXiv 2025	|
+| TSVer	| [TSVer: A Benchmark for Fact Verification Against Time-Series Evidence](https://arxiv.org/abs/2511.01101) |	arXiv 2025	|
+| FinRpt	| [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322) |	arXiv 2025	|
 
 ### Other Aspect
 
@@ -435,6 +448,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | HSCodeComp	| [HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents in Hierarchical Rule Application](https://arxiv.org/abs/2510.19631) |	arXiv 2025	|
 | Chameleon Benchmark |	[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](https://arxiv.org/abs/2510.16712
 ) |	arXiv 2025	|
+| LiveSearchBench	| [LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge](https://arxiv.org/abs/2511.01409) |	arXiv 2025	|
+
 
 Feel free to open an issue or PR to add new papers and benchmarks!
 
