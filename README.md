@@ -193,6 +193,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.11	| [IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction](https://arxiv.org/abs/2511.07327) |	arXiv	|
 | 2025.11	| [Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning](https://arxiv.org/abs/2511.09109) |	arXiv	|
 | 2025.11	| [MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning](https://arxiv.org/abs/2511.02805) |	arXiv	|
+| 2025.10	| [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821) |	arXiv	|
 | 2025.10	| [Reinforcement Learning for Long-Horizon Multi-Turn Search Agents](https://arxiv.org/abs/2510.24126) |	arXiv	|
 | 2025.10	| [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618) |	arXiv	|
 | 2025.10	| [WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking](https://arxiv.org/abs/2510.24697) |	arXiv	|
