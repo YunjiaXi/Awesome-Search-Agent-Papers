@@ -71,6 +71,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.11	|  [RhinoInsight: Improving Deep Research through Control Mechanisms for Model Behavior and Context](https://arxiv.org/abs/2511.18743) | 	arXiv	|
+| 2025.11	|  [Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design](https://arxiv.org/abs/2511.20048) |	arXiv	|
+| 2025.11	|  [ARISE: Agentic Rubric-Guided Iterative Survey Engine for Automated Scholarly Paper Generation](https://arxiv.org/abs/2511.17689) |	arXiv	|
 | 2025.11	|  [Evidence-Bound Autonomous Research (EviBound): A Governance Framework for Eliminating False Claims](https://arxiv.org/abs/2511.05524)	| arXiv	|
 | 2025.11	|  [Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification](https://arxiv.org/abs/2511.03217)	| arXiv |
 | 2025.10	|  [Doc-Researcher: A Unified System for Multimodal Document Parsing and Deep Research](https://arxiv.org/abs/2510.21603) |	arXiv	|
@@ -187,6 +190,14 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.11	| [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689) | 	arXiv	|
+| 2025.11	| [ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning](https://arxiv.org/abs/2511.21005) |	arXiv	|
+| 2025.11	| [ST-PPO: Stabilized Off-Policy Proximal Policy Optimization for Multi-Turn Agents Training](https://arxiv.org/abs/2511.20718) | 	arXiv	|
+| 2025.11	| [DRAFT-RL: Multi-Agent Chain-of-Draft Reasoning for Reinforcement Learning-Enhanced LLMs](https://arxiv.org/abs/2511.20468) |	arXiv	|
+| 2025.11	| [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/abs/2511.19399) |	arXiv	
+| 2025.11	| [General Agentic Memory Via Deep Research](https://arxiv.org/abs/2511.18423)	arXiv	|
+| 2025.11	| [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://arxiv.org/abs/2511.14460) |	arXiv	|
+| 2025.11	| [Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO](https://arxiv.org/abs/2511.13288) |	arXiv	|
 | 2025.11	| [Think Before You Retrieve: Learning Test-Time Adaptive Search with Small Language Models](https://arxiv.org/abs/2511.07581) |	arXiv	|
 | 2025.11	| [Thinker: Training LLMs in Hierarchical Thinking for Deep Search via Multi-Turn Interaction](https://arxiv.org/abs/2511.07943) |	arXiv	|
 | 2025.11	| [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://arxiv.org/abs/2511.05385) |	arXiv	|
