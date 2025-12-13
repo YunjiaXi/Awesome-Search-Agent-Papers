@@ -41,31 +41,6 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 ## Methods
 
-### Early Iterative Retrieval
-
-| Time    | Paper Title                                                                                                                                                                      | Venue       |
-| :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| 2025.6  | [Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation](https://arxiv.org/abs/2506.11092)                                   | arXiv       |
-| 2025.4  | [Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding](https://arxiv.org/abs/2504.01281)                          | arXiv       |
-| 2025.4  | [Credible plan-driven RAG method for Multi-hop Question Answering](https://arxiv.org/abs/2504.16787)                                                                             | arXiv       |
-| 2025.3  | [Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning](https://arxiv.org/abs/2503.01642)                                                 | arXiv       |
-| 2024.11 | [DMQR-RAG: Diverse Multi-Query Rewriting for RAG](https://arxiv.org/abs/2411.13154)                                                                                              | arXiv       |
-| 2024.7  | [Adaptive Retrieval-Augmented Generation for Conversational Systems](https://arxiv.org/abs/2407.21712)                                                                          | NAACL 2025  |
-| 2024.7  | [Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](https://arxiv.org/abs/2407.16833)                                               | EMNLP 2024  |
-| 2024.7  | [REAPER: Reasoning based Retrieval Planning for Complex RAG Systems](https://arxiv.org/abs/2407.18553)                                                                          | CIKM 2024   |
-| 2024.6  | [Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering](https://arxiv.org/abs/2406.14891)                                                       | ACL 2024    |
-| 2024.6  | [Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs](https://arxiv.org/abs/2406.14282)                                                         | EMNLP 2024  |
-| 2024.6  | [A Surprisingly Simple yet Effective Multi-Query Rewriting Method for Conversational Passage Retrieval](https://arxiv.org/abs/2406.18960)                                        | SIGIR 2024  |
-| 2024.3  | [RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/abs/2403.05313)                                                  | NeurIPS 2024|
-| 2024.3  | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403)                                        | NAACL 2024  |
-| 2024.3  | [Generating Multi-Aspect Queries for Conversational Search](https://arxiv.org/abs/2403.19302)                                                                                   | arXiv       |
-| 2024.1  | [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884)                                                                                                    | arXiv       |
-| 2023.5  | [Enhancing retrieval-augmented large language models with iterative retrieval-generation synergy.](https://arxiv.org/abs/2305.15294)                                               | EMNLP 2023  |
-| 2023.5  | [Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources](https://arxiv.org/abs/2305.13269)                                 | ICLR 2024   |
-| 2023.5  | [Active retrieval augmented generation.](https://arxiv.org/abs/2305.06983)                                                                                                       | EMNLP 2023  |
-| 2022.12 | [Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions.](https://aclanthology.org/2023.acl-long.557.pdf)                              | ACL 2023    |
-| 2022.12 | [DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP](https://arxiv.org/abs/2212.14024)                                               | arXiv       |
-| 2022.1  | [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)                                                                          | EMNLP 2023  |
 
 ### Tuning-free Methods
 
@@ -322,6 +297,33 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.2  | [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/abs/2502.01142)                                                                        | arXiv         |
 | 2025.1  | [Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2501.15228)                                                          | arXiv         |
 | 2024.10 | [SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback](https://arxiv.org/pdf/2410.18141)                                                                      | ICLR 2025     |
+
+
+### Early Iterative Retrieval
+
+| Time    | Paper Title                                                                                                                                                                      | Venue       |
+| :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| 2025.6  | [Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation](https://arxiv.org/abs/2506.11092)                                   | arXiv       |
+| 2025.4  | [Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding](https://arxiv.org/abs/2504.01281)                          | arXiv       |
+| 2025.4  | [Credible plan-driven RAG method for Multi-hop Question Answering](https://arxiv.org/abs/2504.16787)                                                                             | arXiv       |
+| 2025.3  | [Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning](https://arxiv.org/abs/2503.01642)                                                 | arXiv       |
+| 2024.11 | [DMQR-RAG: Diverse Multi-Query Rewriting for RAG](https://arxiv.org/abs/2411.13154)                                                                                              | arXiv       |
+| 2024.7  | [Adaptive Retrieval-Augmented Generation for Conversational Systems](https://arxiv.org/abs/2407.21712)                                                                          | NAACL 2025  |
+| 2024.7  | [Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](https://arxiv.org/abs/2407.16833)                                               | EMNLP 2024  |
+| 2024.7  | [REAPER: Reasoning based Retrieval Planning for Complex RAG Systems](https://arxiv.org/abs/2407.18553)                                                                          | CIKM 2024   |
+| 2024.6  | [Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering](https://arxiv.org/abs/2406.14891)                                                       | ACL 2024    |
+| 2024.6  | [Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs](https://arxiv.org/abs/2406.14282)                                                         | EMNLP 2024  |
+| 2024.6  | [A Surprisingly Simple yet Effective Multi-Query Rewriting Method for Conversational Passage Retrieval](https://arxiv.org/abs/2406.18960)                                        | SIGIR 2024  |
+| 2024.3  | [RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/abs/2403.05313)                                                  | NeurIPS 2024|
+| 2024.3  | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403)                                        | NAACL 2024  |
+| 2024.3  | [Generating Multi-Aspect Queries for Conversational Search](https://arxiv.org/abs/2403.19302)                                                                                   | arXiv       |
+| 2024.1  | [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884)                                                                                                    | arXiv       |
+| 2023.5  | [Enhancing retrieval-augmented large language models with iterative retrieval-generation synergy.](https://arxiv.org/abs/2305.15294)                                               | EMNLP 2023  |
+| 2023.5  | [Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources](https://arxiv.org/abs/2305.13269)                                 | ICLR 2024   |
+| 2023.5  | [Active retrieval augmented generation.](https://arxiv.org/abs/2305.06983)                                                                                                       | EMNLP 2023  |
+| 2022.12 | [Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions.](https://aclanthology.org/2023.acl-long.557.pdf)                              | ACL 2023    |
+| 2022.12 | [DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP](https://arxiv.org/abs/2212.14024)                                               | arXiv       |
+| 2022.1  | [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)                                                                          | EMNLP 2023  |
 
 
 ## Datasets
