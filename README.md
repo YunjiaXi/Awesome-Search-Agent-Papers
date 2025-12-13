@@ -71,6 +71,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.12	|  [A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)](https://arxiv.org/abs/2512.03887) |	arXiv	|
 | 2025.11	|  [RhinoInsight: Improving Deep Research through Control Mechanisms for Model Behavior and Context](https://arxiv.org/abs/2511.18743) | 	arXiv	|
 | 2025.11	|  [Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design](https://arxiv.org/abs/2511.20048) |	arXiv	|
 | 2025.11	|  [ARISE: Agentic Rubric-Guided Iterative Survey Engine for Automated Scholarly Paper Generation](https://arxiv.org/abs/2511.17689) |	arXiv	|
@@ -160,6 +161,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.12	|  [Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395) |	arXiv	|
 | 2025.11	 | [SynClaimEval: A Framework for Evaluating the Utility of Synthetic Data in Long-Context Claim Verification](https://arxiv.org/abs/2511.09539) |	arXiv	|
 | 2025.11	 | [REAP: Enhancing RAG with Recursive Evaluation and Adaptive Planning for Multi-Hop Question Answering](https://arxiv.org/abs/2511.09966)	| arXiv |
 | 2025.10	 | [AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis](https://arxiv.org/abs/2510.24695) | arXiv	|	
@@ -190,6 +192,11 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.12	| [LightSearcher: Efficient DeepSearch via Experiential Memory](https://arxiv.org/abs/2512.06653) |	arXiv	|
+| 2025.12	| [RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning](https://arxiv.org/abs/2512.09487) |	arXiv	|
+| 2025.12	| [Enhancing Agentic RL with Progressive Reward Shaping and Value-based Sampling Policy Optimization](https://arxiv.org/abs/2512.07478) |	arXiv	|
+| 2025.12	| [CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent](https://arxiv.org/abs/2512.04949) | 	arXiv	|
+| 2025.12 | [On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral](https://arxiv.org/abs/2512.04220) |	arXiv	|
 | 2025.11	| [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689) | 	arXiv	|
 | 2025.11	| [ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning](https://arxiv.org/abs/2511.21005) |	arXiv	|
 | 2025.11	| [ST-PPO: Stabilized Off-Policy Proximal Policy Optimization for Multi-Turn Agents Training](https://arxiv.org/abs/2511.20718) | 	arXiv	|
@@ -438,6 +445,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | FinDeepResearch	| [FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis](https://arxiv.org/abs/2510.13936) | arXiv 2025	|
 | TSVer	| [TSVer: A Benchmark for Fact Verification Against Time-Series Evidence](https://arxiv.org/abs/2511.01101) |	arXiv 2025	|
 | FinRpt	| [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322) |	arXiv 2025	|
+| LocalSearchBench	| [LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services](https://arxiv.org/abs/2512.07436) |	arXiv 2025	|
 
 ### Other Aspect
 
@@ -461,7 +469,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | Chameleon Benchmark |	[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](https://arxiv.org/abs/2510.16712
 ) |	arXiv 2025	|
 | LiveSearchBench	| [LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge](https://arxiv.org/abs/2511.01409) |	arXiv 2025	|
-
+| FACTS	| [The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality](https://arxiv.org/abs/2512.10791)	| arXiv 2025	|
 
 Feel free to open an issue or PR to add new papers and benchmarks!
 
