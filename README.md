@@ -167,6 +167,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.12	| [AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.16883) |	arXiv	|
+| 2025.12	| [An Open and Reproducible Deep Research Agent for Long-Form Question Answering](https://arxiv.org/abs/2512.13059) |	arXiv	|
+| 2025.12	| [CoDA: A Context-Decoupled Hierarchical Agent with Reinforcement Learning](https://arxiv.org/abs/2512.12716) |	arXiv	|
 | 2025.12	| [LightSearcher: Efficient DeepSearch via Experiential Memory](https://arxiv.org/abs/2512.06653) |	arXiv	|
 | 2025.12	| [RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning](https://arxiv.org/abs/2512.09487) |	arXiv	|
 | 2025.12	| [Enhancing Agentic RL with Progressive Reward Shaping and Value-based Sampling Policy Optimization](https://arxiv.org/abs/2512.07478) |	arXiv	|
@@ -375,6 +378,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | PluriHopWIND	| [PluriHop: Exhaustive, Recall-Sensitive QA over Distractor-Rich Corpora](https://arxiv.org/abs/2510.14377)	| arXiv 2025	|
 | CRUMQs	| [Evaluating Retrieval-Augmented Generation Systems on Unanswerable, Uncheatable, Realistic, Multi-hop Queries](https://arxiv.org/abs/2510.11956)	| arXiv 2025	|
 | InteractComp	| [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://arxiv.org/abs/2510.24668) |	arXiv 2025	|
+| Needle in the Web	| [Needle in the Web: A Benchmark for Retrieving Targeted Web Pages in the Wild](https://arxiv.org/abs/2512.16553) |	arXiv 2025	|
 
 
 ### Fact-checking dataset
