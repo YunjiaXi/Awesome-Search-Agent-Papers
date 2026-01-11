@@ -46,6 +46,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	|  [Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search](https://arxiv.org/abs/2601.04703) |	arXiv	|
+| 2026.1	|  [InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://arxiv.org/abs/2601.03204) |	arXiv	|
+| 2026.1	|  [EvoRoute: Experience-Driven Self-Routing LLM Agent Systems](https://arxiv.org/abs/2601.02695) |	arXiv	|
+| 2026.1	|  [RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection](https://arxiv.org/abs/2601.04853) |	arXiv	|
+| 2026.1	|  [Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis](https://arxiv.org/abs/2601.04879) |	arXiv	|
+| 2025.12	|  [Multimodal Fact-Checking: An Agent-based Approach](https://arxiv.org/abs/2512.22933)	| arXiv	|
 | 2025.12	|  [A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)](https://arxiv.org/abs/2512.03887) |	arXiv	|
 | 2025.11	|  [RhinoInsight: Improving Deep Research through Control Mechanisms for Model Behavior and Context](https://arxiv.org/abs/2511.18743) | 	arXiv	|
 | 2025.11	|  [Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design](https://arxiv.org/abs/2511.20048) |	arXiv	|
@@ -136,6 +142,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2025.12	|  [DocDancer: Towards Agentic Document-Grounded Information Seeking](https://arxiv.org/abs/2601.05163) | 	arXiv	|
+| 2025.12	|  [Nested Browser-Use Learning for Agentic Information Seeking](https://arxiv.org/abs/2512.23647) |	arXiv	|
 | 2025.12	|  [Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395) |	arXiv	|
 | 2025.11	 | [SynClaimEval: A Framework for Evaluating the Utility of Synthetic Data in Long-Context Claim Verification](https://arxiv.org/abs/2511.09539) |	arXiv	|
 | 2025.11	 | [REAP: Enhancing RAG with Recursive Evaluation and Adaptive Planning for Multi-Hop Question Answering](https://arxiv.org/abs/2511.09966)	| arXiv |
@@ -167,6 +175,15 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	| [SmartSearch: Process Reward-Guided Query Refinement for Search Agents](https://arxiv.org/abs/2601.04888) |	arXiv	|
+| 2026.1	| [Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search](https://arxiv.org/abs/2601.04703) |	arXiv	|
+| 2026.1	| [WebAnchor: Anchoring Agent Planning to Stabilize Long-Horizon Web Reasoning](https://arxiv.org/abs/2601.03164) |	arXiv	|
+| 2026.1	| [O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2601.03743) |	arXiv	|
+| 2026.1	| [RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection](https://arxiv.org/abs/2601.04853) |	arXiv	|
+| 2026.1	| [AT2PO: Agentic Turn-based Policy Optimization via Tree Search](https://arxiv.org/abs/2601.04767) |	arXiv	|
+| 2025.12	| [FoldAct: Efficient and Stable Context Folding for Long-Horizon Search Agents](http://arxiv.org/abs/2512.22733) |	arXiv	|
+| 2025.12	| [Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](https://arxiv.org/abs/2512.24615) |	arXiv	|
+| 2025.12	| [Step-DeepResearch Technical Report](https://arxiv.org/abs/2512.20491) |	arXiv |
 | 2025.12	| [AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.16883) |	arXiv	|
 | 2025.12	| [An Open and Reproducible Deep Research Agent for Long-Form Question Answering](https://arxiv.org/abs/2512.13059) |	arXiv	|
 | 2025.12	| [CoDA: A Context-Decoupled Hierarchical Agent with Reinforcement Learning](https://arxiv.org/abs/2512.12716) |	arXiv	|
