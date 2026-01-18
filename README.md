@@ -46,6 +46,10 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	| [ExpSeek: Self-Triggered Experience Seeking for Web Agents](https://arxiv.org/abs/2601.08605) | 	arXiv	|
+| 2026.1	| [Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents](https://arxiv.org/abs/2601.07577)	| arXiv	|
+| 2026.1	| [Over-Searching in Search-Augmented Large Language Models](https://arxiv.org/abs/2601.05503) |	arXiv	|
+| 2026.1	| [EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines](https://arxiv.org/abs/2601.09465) |	arXiv	|
 | 2026.1	|  [Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search](https://arxiv.org/abs/2601.04703) |	arXiv	|
 | 2026.1	|  [InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://arxiv.org/abs/2601.03204) |	arXiv	|
 | 2026.1	|  [EvoRoute: Experience-Driven Self-Routing LLM Agent Systems](https://arxiv.org/abs/2601.02695) |	arXiv	|
@@ -142,6 +146,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	|  [RAGShaper: Eliciting Sophisticated Agentic RAG Skills via Automated Data Synthesis](https://arxiv.org/abs/2601.08699) |	arXiv	|
 | 2025.12	|  [DocDancer: Towards Agentic Document-Grounded Information Seeking](https://arxiv.org/abs/2601.05163) | 	arXiv	|
 | 2025.12	|  [Nested Browser-Use Learning for Agentic Information Seeking](https://arxiv.org/abs/2512.23647) |	arXiv	|
 | 2025.12	|  [Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395) |	arXiv	|
@@ -175,6 +180,16 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	| [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021) |	arXiv	|
+| 2026.1  | [TreePS-RAG: Tree-based Process Supervision for Reinforcement Learning in Agentic RAG](https://arxiv.org/abs/2601.06922) |	arXiv	|
+| 2026.1	| [D2Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning](https://arxiv.org/abs/2601.08282) |	arXiv	|
+| 2026.1	| [ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](https://arxiv.org/abs/2601.06487)	| arXiv	|
+| 2026.1	| [PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering](https://arxiv.org/abs/2601.05465) | 	arXiv	|
+| 2026.1	| [PaperScout: An Autonomous Agent for Academic Paper Search with Process-Aware Sequence-Level Policy Optimization](https://arxiv.org/abs/2601.10029) | 	arXiv	|
+| 2026.1	| [M3Searcher: Modular Multimodal Information Seeking Agency with Retrieval-Oriented Reasoning](https://arxiv.org/abs/2601.09278)	| arXiv	|
+| 2026.1	| [LRAS: Advanced Legal Reasoning with Agentic Search](https://arxiv.org/abs/2601.06794) |	arXiv	|
+| 2026.1	| [Dr. Zero: Self-Evolving Search Agents without Training Data](https://arxiv.org/abs/2601.07055) |	arXiv	|
+| 2026.1	| [ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration](https://arxiv.org/abs/2601.06860) |	arXiv	|
 | 2026.1	| [SmartSearch: Process Reward-Guided Query Refinement for Search Agents](https://arxiv.org/abs/2601.04888) |	arXiv	|
 | 2026.1	| [Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search](https://arxiv.org/abs/2601.04703) |	arXiv	|
 | 2026.1	| [WebAnchor: Anchoring Agent Planning to Stabilize Long-Horizon Web Reasoning](https://arxiv.org/abs/2601.03164) |	arXiv	|
@@ -442,6 +457,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | LiveResearchBench | [LiveResearchBench: A Live Benchmark for User-Centric Deep Research in the Wild](https://arxiv.org/abs/2510.14240) | arXiv 2025	|
 | DeepWideSearch	| [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://arxiv.org/abs/2510.20168) |	arXiv 2025	|
 | ResearchRubrics	| [ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents](https://arxiv.org/abs/2511.07685) |	arXiv 2025	|
+| DEER	| [DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports](https://arxiv.org/abs/2512.17776) |	arXiv 2025	|
+| IDRBench	| [IDRBench: Interactive Deep Research Benchmark](https://arxiv.org/abs/2601.06676) |	arXiv 2025	|
+| VideoDR	| [Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://arxiv.org/abs/2601.06943) |	arXiv 2025	|
+| DR-Arena |	[DR-Arena: an Automated Evaluation Framework for Deep Research Agents](https://arxiv.org/abs/2601.10504) |	arXiv 2025	|
+| DeepResearchEval | 	[DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://arxiv.org/abs/2601.09688) |	arXiv 2025	|
+| Deep Research Bench II |	[DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report](https://arxiv.org/abs/2601.08536) |	arXiv 2025	|
 
 ### Domain-specific dataset
 
@@ -493,6 +514,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 ) |	arXiv 2025	|
 | LiveSearchBench	| [LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge](https://arxiv.org/abs/2511.01409) |	arXiv 2025	|
 | FACTS	| [The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality](https://arxiv.org/abs/2512.10791)	| arXiv 2025	|
+| OverSearchQA	| [Over-Searching in Search-Augmented Large Language Models](https://arxiv.org/abs/2601.05503) |	arXiv 2025	|
 
 Feel free to open an issue or PR to add new papers and benchmarks!
 
