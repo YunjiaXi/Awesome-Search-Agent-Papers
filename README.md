@@ -46,6 +46,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	| [Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification](https://arxiv.org/abs/2601.15808) |	arXiv	|
 | 2026.1	| [ExpSeek: Self-Triggered Experience Seeking for Web Agents](https://arxiv.org/abs/2601.08605) | 	arXiv	|
 | 2026.1	| [Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents](https://arxiv.org/abs/2601.07577)	| arXiv	|
 | 2026.1	| [Over-Searching in Search-Augmented Large Language Models](https://arxiv.org/abs/2601.05503) |	arXiv	|
@@ -180,6 +181,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.1	| [SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation](https://arxiv.org/abs/2601.14615) |	arXiv	|
+| 2026.1	| [Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning](https://arxiv.org/abs/2601.13942) | 	arXiv |	
+| 2026.1	| [BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search](https://arxiv.org/abs/2601.11037) |	arXiv	|
 | 2026.1	| [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021) |	arXiv	|
 | 2026.1  | [TreePS-RAG: Tree-based Process Supervision for Reinforcement Learning in Agentic RAG](https://arxiv.org/abs/2601.06922) |	arXiv	|
 | 2026.1	| [D2Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning](https://arxiv.org/abs/2601.08282) |	arXiv	|
@@ -463,6 +467,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DR-Arena |	[DR-Arena: an Automated Evaluation Framework for Deep Research Agents](https://arxiv.org/abs/2601.10504) |	arXiv 2025	|
 | DeepResearchEval | 	[DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://arxiv.org/abs/2601.09688) |	arXiv 2025	|
 | Deep Research Bench II |	[DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report](https://arxiv.org/abs/2601.08536) |	arXiv 2025	|
+| MR DRE	| [Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision](https://arxiv.org/abs/2601.13217) |	arXiv 2025	|
+| DeepSurvey-Bench |	[DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey](https://arxiv.org/abs/2601.15307) |	arXiv 2025	|
 
 ### Domain-specific dataset
 
