@@ -46,6 +46,15 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2	| [FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents](https://arxiv.org/abs/2602.01348)	|	arxiv |
+| 2026.2	| [A-MapReduce: Executing Wide Search via Agentic MapReduce](https://arxiv.org/abs/2602.01331) |	arXiv	|
+| 2026.2	| [G-MemLLM: Gated Latent Memory Augmentation for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2602.00015) |	arXiv	|
+| 2026.2	| [Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience](https://arxiv.org/abs/2601.23188) |	arXiv	|
+| 2026.2	| [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232) | 	arXiv	|
+| 2026.2	| [SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly](https://arxiv.org/abs/2601.22623) |	arXiv	|
+| 2026.2	 | [RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents](https://arxiv.org/abs/2602.02486) |	arXiv	|
+| 2026.2	| [CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering](https://arxiv.org/abs/2602.05728) |	arXiv	|
+| 2026.2	| [DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search](https://arxiv.org/abs/2602.05014) |	arXiv	|
 | 2026.1	| [Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification](https://arxiv.org/abs/2601.15808) |	arXiv	|
 | 2026.1	| [ExpSeek: Self-Triggered Experience Seeking for Web Agents](https://arxiv.org/abs/2601.08605) | 	arXiv	|
 | 2026.1	| [Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents](https://arxiv.org/abs/2601.07577)	| arXiv	|
@@ -181,6 +190,19 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2	| [Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation](https://arxiv.org/abs/2602.03619) |	arXiv	|
+| 2026.2	| [Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling](https://arxiv.org/abs/2602.03719) |	arXiv	|
+| 2026.2	| [Scaling Search-Augmented LLM Reasoning via Adaptive Information Control](https://arxiv.org/abs/2602.01672) |	arXiv	|
+| 2026.2	| [CRAFT: Calibrated Reasoning with Answer-Faithful Traces via Reinforcement Learning for Multi-Hop Question Answering](https://arxiv.org/abs/2602.01348) |	arXiv	|
+| 2026.2	| [TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization](https://arxiv.org/abs/2601.22776) |	arXiv	|
+| 2026.2	| [Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward](https://arxiv.org/abs/2602.00845) |	arXiv	|
+| 2026.2	| [Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning](https://arxiv.org/abs/2602.00994)	| arXiv	|
+| 2026.2	| [Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents](https://arxiv.org/abs/2602.02050) |	arXiv	|
+| 2026.2	| [WideSeek: Advancing Wide Research via Multi-Agent Scaling](https://arxiv.org/abs/2602.02636) |	arXiv	|
+| 2026.2	| [IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](https://arxiv.org/abs/2602.03468) |	arXiv	|
+| 2026.2	| [Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration](https://arxiv.org/abs/2602.03647) |	arXiv	|
+| 2026.2	| [WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.04634) |	arXiv	|
+| 2026.2	| [Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards](https://arxiv.org/abs/2601.22511) |	arXiv	|
 | 2026.1	| [SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation](https://arxiv.org/abs/2601.14615) |	arXiv	|
 | 2026.1	| [Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning](https://arxiv.org/abs/2601.13942) | 	arXiv |	
 | 2026.1	| [BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search](https://arxiv.org/abs/2601.11037) |	arXiv	|
@@ -415,7 +437,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | CRUMQs	| [Evaluating Retrieval-Augmented Generation Systems on Unanswerable, Uncheatable, Realistic, Multi-hop Queries](https://arxiv.org/abs/2510.11956)	| arXiv 2025	|
 | InteractComp	| [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://arxiv.org/abs/2510.24668) |	arXiv 2025	|
 | Needle in the Web	| [Needle in the Web: A Benchmark for Retrieving Targeted Web Pages in the Wild](https://arxiv.org/abs/2512.16553) |	arXiv 2025	|
-
+| ShotFinder | [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232) | 	arXiv 2025	|
+| WideSeek	| [WideSeek: Advancing Wide Research via Multi-Agent Scaling](https://arxiv.org/abs/2602.02636) |	arXiv 2025	|
 
 ### Fact-checking dataset
 
@@ -469,6 +492,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | Deep Research Bench II |	[DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report](https://arxiv.org/abs/2601.08536) |	arXiv 2025	|
 | MR DRE	| [Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision](https://arxiv.org/abs/2601.13217) |	arXiv 2025	|
 | DeepSurvey-Bench |	[DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey](https://arxiv.org/abs/2601.15307) |	arXiv 2025	|
+| Vision-DeepResearch |	[Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models](https://arxiv.org/abs/2602.02185) | 	arXiv 2025	|
+| DDR-Bench	| [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](https://arxiv.org/abs/2602.02039) | 	arXiv 2025	|
+| WLC |	[Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590) | 	arXiv 2025	|
 
 ### Domain-specific dataset
 
@@ -521,6 +547,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | LiveSearchBench	| [LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge](https://arxiv.org/abs/2511.01409) |	arXiv 2025	|
 | FACTS	| [The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality](https://arxiv.org/abs/2512.10791)	| arXiv 2025	|
 | OverSearchQA	| [Over-Searching in Search-Augmented Large Language Models](https://arxiv.org/abs/2601.05503) |	arXiv 2025	|
+| DeepHalluBench |	[Why Your Deep Research Agent Fails? On Hallucination Evaluation in Full Research Trajectory](https://arxiv.org/abs/2601.22984) | 	arXiv 2025	|
+| SAGE	| [SAGE: Benchmarking and Improving Retrieval for Deep Research Agents](https://arxiv.org/abs/2602.05975) |	arXiv 2025	|
 
 Feel free to open an issue or PR to add new papers and benchmarks!
 
