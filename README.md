@@ -46,6 +46,13 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2	| [Knowledge Integration Decay in Search-Augmented Reasoning of Large Language Models](https://arxiv.org/abs/2602.09517) |	arXiv	|
+| 2026.2	| [Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion](https://arxiv.org/abs/2602.06724) |	arXiv	|
+| 2026.2	| [Lemon Agent Technical Report](https://arxiv.org/abs/2602.07092) |	arXiv	|
+| 2026.2	| [When Is Enough Not Enough? Illusory Completion in Search Agents](https://arxiv.org/abs/2602.07549) |	arXiv	|
+| 2026.2	| [W&D:Scaling Parallel Tool Calling for Efficient Deep Research Agents](https://arxiv.org/abs/2602.07359) |	arXiv	|
+| 2026.2	| [PreFlect: From Retrospective to Prospective Reflection in Large Language Model Agents](https://arxiv.org/abs/2602.07187) |	arXiv	|
+| 2026.2	| [LawThinker: A Deep Research Legal Agent in Dynamic Environments](https://arxiv.org/abs/2602.12056) | 	arXiv |
 | 2026.2	| [FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents](https://arxiv.org/abs/2602.01348)	|	arxiv |
 | 2026.2	| [A-MapReduce: Executing Wide Search via Agentic MapReduce](https://arxiv.org/abs/2602.01331) |	arXiv	|
 | 2026.2	| [G-MemLLM: Gated Latent Memory Augmentation for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2602.00015) |	arXiv	|
@@ -190,6 +197,13 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2	| [When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](https://arxiv.org/abs/2602.10560) |	arXiv	|
+| 2026.2	| [TodoEvolve: Learning to Architect Agent Planning Systems](https://arxiv.org/abs/2602.07839) |	arXiv	|
+| 2026.2	| [SRR-Judge: Step-Level Rating and Refinement for Enhancing Search-Integrated Reasoning in Search Agents](https://arxiv.org/abs/2602.07773) | 	arXiv	|
+| 2026.2	| [SIGHT: Reinforcement Learning with Self-Evidence and Information-Gain Diverse Branching for Search Agent](https://arxiv.org/abs/2602.11551) | 	arXiv |
+| 2026.2	| [AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents](https://arxiv.org/abs/2602.06485) |	arXiv	|
+| 2026.2	| [AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research](https://arxiv.org/abs/2602.06540) | 	arXiv	|
+| 2026.2	| [DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents](https://arxiv.org/abs/2602.07035) |	arXiv	|
 | 2026.2	| [Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation](https://arxiv.org/abs/2602.03619) |	arXiv	|
 | 2026.2	| [Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling](https://arxiv.org/abs/2602.03719) |	arXiv	|
 | 2026.2	| [Scaling Search-Augmented LLM Reasoning via Adaptive Information Control](https://arxiv.org/abs/2602.01672) |	arXiv	|
