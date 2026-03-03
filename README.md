@@ -46,6 +46,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2      | [Keyword search is all you need: Achieving RAG-Level Performance without vector databases using agentic tool use](https://arxiv.org/abs/2602.23368) | arXiv   |
+| 2026.2        | [Evaluating Stochasticity in Deep Research Agents](https://arxiv.org/abs/2602.23271v1) |      arXiv   |
 | 2026.2	| [Knowledge Integration Decay in Search-Augmented Reasoning of Large Language Models](https://arxiv.org/abs/2602.09517) |	arXiv	|
 | 2026.2	| [Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion](https://arxiv.org/abs/2602.06724) |	arXiv	|
 | 2026.2	| [Lemon Agent Technical Report](https://arxiv.org/abs/2602.07092) |	arXiv	|
@@ -163,6 +165,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2        | [ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation](https://arxiv.org/abs/2602.23716) |     arXiv   |
+| 2026.2        | [WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning](https://arxiv.org/abs/2602.12852) |       arXiv   |
 | 2026.1	|  [RAGShaper: Eliciting Sophisticated Agentic RAG Skills via Automated Data Synthesis](https://arxiv.org/abs/2601.08699) |	arXiv	|
 | 2025.12	|  [DocDancer: Towards Agentic Document-Grounded Information Seeking](https://arxiv.org/abs/2601.05163) | 	arXiv	|
 | 2025.12	|  [Nested Browser-Use Learning for Agentic Information Seeking](https://arxiv.org/abs/2512.23647) |	arXiv	|
@@ -197,6 +201,13 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.2	| [Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning](https://arxiv.org/abs/2602.23440) |	arXiv	|
+| 2026.2	| [Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training](https://arxiv.org/abs/2602.22576) |	arXiv	|
+| 2026.2  | [Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization](https://arxiv.org/abs/2602.22675v2) |	arXiv	|
+| 2026.2	| [OmniGAIA: Towards Native Omni-Modal AI Agents](https://arxiv.org/abs/2602.22897) ｜arXiv	｜
+| 2026.2	| [Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric](https://arxiv.org/abs/2602.14069) |	arXiv	|
+| 2026.2	| [REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://arxiv.org/abs/2602.14234) |	arXiv	|
+| 2026.2	| [KLong: Training LLM Agent for Extremely Long-horizon Tasks](https://arxiv.org/abs/2602.17547) |	arXiv |	
 | 2026.2	| [When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](https://arxiv.org/abs/2602.10560) |	arXiv	|
 | 2026.2	| [TodoEvolve: Learning to Architect Agent Planning Systems](https://arxiv.org/abs/2602.07839) |	arXiv	|
 | 2026.2	| [SRR-Judge: Step-Level Rating and Refinement for Enhancing Search-Integrated Reasoning in Search Agents](https://arxiv.org/abs/2602.07773) | 	arXiv	|
@@ -453,6 +464,10 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | Needle in the Web	| [Needle in the Web: A Benchmark for Retrieving Targeted Web Pages in the Wild](https://arxiv.org/abs/2512.16553) |	arXiv 2025	|
 | ShotFinder | [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232) | 	arXiv 2025	|
 | WideSeek	| [WideSeek: Advancing Wide Research via Multi-Agent Scaling](https://arxiv.org/abs/2602.02636) |	arXiv 2025	|
+| GISA  | [GISA: A Benchmark for General Information-Seeking Assistant](https://arxiv.org/abs/2602.08543) |     arXiv 2026      |
+| BrowseComp-V3 | [BrowseComp-V3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876) |      arXiv 2026      |
+| LiveNewsBench | [LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News](https://arxiv.org/abs/2602.13543) | arXiv 2026      |
+| OmniGAIA      | [OmniGAIA: Towards Native Omni-Modal AI Agents](http://arxiv.org/abs/2602.22897v1) | arXiv 2026       |
 
 ### Fact-checking dataset
 
@@ -505,10 +520,11 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DeepResearchEval | 	[DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://arxiv.org/abs/2601.09688) |	arXiv 2025	|
 | Deep Research Bench II |	[DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report](https://arxiv.org/abs/2601.08536) |	arXiv 2025	|
 | MR DRE	| [Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision](https://arxiv.org/abs/2601.13217) |	arXiv 2025	|
-| DeepSurvey-Bench |	[DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey](https://arxiv.org/abs/2601.15307) |	arXiv 2025	|
-| Vision-DeepResearch |	[Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models](https://arxiv.org/abs/2602.02185) | 	arXiv 2025	|
-| DDR-Bench	| [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](https://arxiv.org/abs/2602.02039) | 	arXiv 2025	|
-| WLC |	[Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590) | 	arXiv 2025	|
+| DeepSurvey-Bench |	[DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey](https://arxiv.org/abs/2601.15307) |	arXiv 2026	|
+| Vision-DeepResearch |	[Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models](https://arxiv.org/abs/2602.02185) | 	arXiv 2026	|
+| DDR-Bench	| [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](https://arxiv.org/abs/2602.02039) | 	arXiv 2026	|
+| WLC |	[Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590) | 	arXiv 2026	|
+| DRACO | [DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685) |       arXiv 2026      |
 
 ### Domain-specific dataset
 
@@ -536,6 +552,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | TSVer	| [TSVer: A Benchmark for Fact Verification Against Time-Series Evidence](https://arxiv.org/abs/2511.01101) |	arXiv 2025	|
 | FinRpt	| [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322) |	arXiv 2025	|
 | LocalSearchBench	| [LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services](https://arxiv.org/abs/2512.07436) |	arXiv 2025	|
+| HotelQuEST    | [HotelQuEST: Balancing Quality and Efficiency in Agentic Search](https://arxiv.org/abs/2602.23949) |  arXiv 2026      |
 
 ### Other Aspect
 
