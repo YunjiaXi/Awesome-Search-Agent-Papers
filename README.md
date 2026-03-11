@@ -201,6 +201,12 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.3        | [Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents](https://arxiv.org/abs/2603.07915) |      arXiv   |
+| 2026.3        | [Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents](https://arxiv.org/abs/2603.09203) |       arXiv   |
+| 2026.3        | [SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans](https://arxiv.org/abs/2603.07853) | arXiv   |
+| 2026.3        | [KARL: Knowledge Agents via Reinforcement Learning](https://arxiv.org/abs/2603.05218) |       arXiv   |
+| 2026.3        | [MemPO: Self-Memory Policy Optimization for Long-Horizon Agents](https://arxiv.org/abs/2603.00680) |  arXiv   |
+| 2026.3        | [Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/abs/2603.01416) |      arXiv   |
 | 2026.2	| [Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning](https://arxiv.org/abs/2602.23440) |	arXiv	|
 | 2026.2	| [Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training](https://arxiv.org/abs/2602.22576) |	arXiv	|
 | 2026.2  | [Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization](https://arxiv.org/abs/2602.22675v2) |	arXiv	|
@@ -431,6 +437,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | ViDoRAG       | [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://arxiv.org/abs/2502.18017)                                        | arXiv 2025    |
 | MoreHopQA     | [MoreHopQA: More Than Multi-hop Reasoning](https://arxiv.org/abs/2406.13397)                                                                                           | arXiv 2024    |
 | CofCA         | [Cofca: A Step-Wise Counterfactual Multi-hop QA benchmark](https://arxiv.org/abs/2402.11924v5)                                                                           | ICLR 2025     |
+| BRIDGE        | [BRIDGE: Benchmark for multi-hop Reasoning In long multimodal Documents with Grounded Evidence](https://arxiv.org/abs/2603.07931) |   arXiv 2026      |
+
 
 ### Challenging QA for Deep Search
 
@@ -468,6 +476,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | BrowseComp-V3 | [BrowseComp-V3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876) |      arXiv 2026      |
 | LiveNewsBench | [LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News](https://arxiv.org/abs/2602.13543) | arXiv 2026      |
 | OmniGAIA      | [OmniGAIA: Towards Native Omni-Modal AI Agents](http://arxiv.org/abs/2602.22897v1) | arXiv 2026       |
+| MC-Search     | [MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains](https://arxiv.org/abs/2603.00873) |     arXiv 2026      |
+
 
 ### Fact-checking dataset
 
@@ -525,6 +535,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DDR-Bench	| [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](https://arxiv.org/abs/2602.02039) | 	arXiv 2026	|
 | WLC |	[Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590) | 	arXiv 2026	|
 | DRACO | [DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685) |       arXiv 2026      |
+| DeepResearch-9K       | [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://arxiv.org/abs/2603.01152) | arXiv 2026      |
+
 
 ### Domain-specific dataset
 
