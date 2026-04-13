@@ -5,6 +5,10 @@ This repository aims to collect and organize the latest research papers on **Sea
 
 This repository covers areas including, but not limited to **Search Agent**, **Agentic RAG (Retrieval-Augmented Generation)**, **Deep Research**, **Deep Search**, **Search-enhanced Reasoning Models**.
 
+## 🔥 News
+- **[2026-ACL]** 🎉 Our survey paper [A Survey of LLM-based Deep Search Agents](https://arxiv.org/abs/2508.05668) has been accepted to **ACL 2026 Main Conference**!
+
+
 We broadly categorize current solutions into the following types:
 * **Early Iterative Retrieval**: Papers exploring early mechanisms of iterative retrieval.
 * **Tuning-free Methods**: Approaches that achieve search agent functionality without extensive specific training data.
@@ -46,6 +50,16 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.4 | [Self-Optimizing Multi-Agent Systems for Deep Research](https://arxiv.org/abs/2604.02988) | arXiv |
+| 2026.4 | [InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking](https://arxiv.org/abs/2604.02971) | arXiv |
+| 2026.4 | [PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection](https://arxiv.org/abs/2604.05424) | arXiv |
+| 2026.4 | [Deep Researcher Agent: An Autonomous Framework for 24/7 Deep Learning Experimentation with Zero-Cost Monitoring](https://arxiv.org/abs/2604.05854) | arXiv |
+| 2026.4 | [Towards Trustworthy Report Generation: A Deep Research Agent with Progressive Confidence Estimation and Calibration](https://arxiv.org/abs/2604.05952) | arXiv |
+| 2026.4 | [DataSTORM: Deep Research on Large-Scale Databases using Exploratory Data Analysis and Data Storytelling](https://arxiv.org/abs/2604.06474) | arXiv |
+| 2026.4 | [Towards Knowledgeable Deep Research: Framework and Benchmark](https://arxiv.org/abs/2604.07720) | arXiv |
+| 2026.4 | [EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools](https://arxiv.org/abs/2604.07927v2) | arXiv |
+| 2026.3 | [Agentic DAG-Orchestrated Planner Framework for Multi-Modal, Multi-Hop Question Answering in Hybrid Data Lakes](https://arxiv.org/abs/2603.14229) | arXiv |
+| 2026.3 | [Test-Time Strategies for More Efficient and Accurate Agentic RAG](https://arxiv.org/abs/2603.12396v1) | arXiv |
 | 2026.2      | [Keyword search is all you need: Achieving RAG-Level Performance without vector databases using agentic tool use](https://arxiv.org/abs/2602.23368) | arXiv   |
 | 2026.2        | [Evaluating Stochasticity in Deep Research Agents](https://arxiv.org/abs/2602.23271v1) |      arXiv   |
 | 2026.2	| [Knowledge Integration Decay in Search-Augmented Reasoning of Large Language Models](https://arxiv.org/abs/2602.09517) |	arXiv	|
@@ -165,6 +179,9 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.4 | [Learning to Retrieve from Agent Trajectories](https://arxiv.org/abs/2604.04949) | arXiv |
+| 2026.4 | [Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents](https://arxiv.org/abs/2604.06753) | arXiv |
+| 2026.3 | [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/abs/2603.15594) | arXiv |
 | 2026.2        | [ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation](https://arxiv.org/abs/2602.23716) |     arXiv   |
 | 2026.2        | [WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning](https://arxiv.org/abs/2602.12852) |       arXiv   |
 | 2026.1	|  [RAGShaper: Eliciting Sophisticated Agentic RAG Skills via Automated Data Synthesis](https://arxiv.org/abs/2601.08699) |	arXiv	|
@@ -201,6 +218,15 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.4 | [ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning](https://arxiv.org/abs/2604.02006v1) | arXiv |
+| 2026.4 | [ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents](https://arxiv.org/abs/2604.01664) | arXiv |
+| 2026.4 | [WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search](https://arxiv.org/abs/2604.06177v1) | arXiv |
+| 2026.4 | [Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search](https://arxiv.org/abs/2604.08124) | arXiv |
+| 2026.3 | [TIPS: Turn-Level Information-Potential Reward Shaping for Search-Augmented LLMs](https://arxiv.org/abs/2603.22293v1) | arXiv |
+| 2026.3 | [A Subgoal-driven Framework for Improving Long-Horizon LLM Agents](https://arxiv.org/abs/2603.19685) | arXiv |
+| 2026.3 | [MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification](https://arxiv.org/abs/2603.15726) | arXiv |
+| 2026.3 | [Meta-Reinforcement Learning with Self-Reflection for Agentic Search](https://arxiv.org/abs/2603.11327) | arXiv |
+| 2026.3 | [Improving Search Agent with One Line of Code](https://arxiv.org/abs/2603.10069) | arXiv |
 | 2026.3        | [Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents](https://arxiv.org/abs/2603.07915) |      arXiv   |
 | 2026.3        | [Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents](https://arxiv.org/abs/2603.09203) |       arXiv   |
 | 2026.3        | [SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans](https://arxiv.org/abs/2603.07853) | arXiv   |
@@ -536,6 +562,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | WLC |	[Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590) | 	arXiv 2026	|
 | DRACO | [DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685) |       arXiv 2026      |
 | DeepResearch-9K       | [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://arxiv.org/abs/2603.01152) | arXiv 2026      |
+| KDR-Bench | [Towards Knowledgeable Deep Research: Framework and Benchmark](https://arxiv.org/abs/2604.07720) | arXiv 2026 |
 
 
 ### Domain-specific dataset
@@ -592,6 +619,11 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | OverSearchQA	| [Over-Searching in Search-Augmented Large Language Models](https://arxiv.org/abs/2601.05503) |	arXiv 2025	|
 | DeepHalluBench |	[Why Your Deep Research Agent Fails? On Hallucination Evaluation in Full Research Trajectory](https://arxiv.org/abs/2601.22984) | 	arXiv 2025	|
 | SAGE	| [SAGE: Benchmarking and Improving Retrieval for Deep Research Agents](https://arxiv.org/abs/2602.05975) |	arXiv 2025	|
+| MPW-Bench | [Evaluating the Search Agent in a Parallel World](https://arxiv.org/abs/2603.04751) | arXiv 2026 |
+| UIS-QA | [UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking](https://arxiv.org/abs/2603.08117) | arXiv 2026 |
+| BCAS | [Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search](https://arxiv.org/abs/2603.08877) | arXiv 2026 |
+| MYSQA | [Language Models Don't Know What You Want: Evaluating Personalization in Deep Research Needs Real Users](https://arxiv.org/abs/2603.16120) | arXiv 2026 |
+
 
 Feel free to open an issue or PR to add new papers and benchmarks!
 
