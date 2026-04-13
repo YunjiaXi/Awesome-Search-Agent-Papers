@@ -5,9 +5,6 @@ This repository aims to collect and organize the latest research papers on **Sea
 
 This repository covers areas including, but not limited to **Search Agent**, **Agentic RAG (Retrieval-Augmented Generation)**, **Deep Research**, **Deep Search**, **Search-enhanced Reasoning Models**.
 
-## 🔥 News
-- **[2026-ACL]** 🎉 Our survey paper [A Survey of LLM-based Deep Search Agents](https://arxiv.org/abs/2508.05668) has been accepted to **ACL 2026 Main Conference**!
-
 
 We broadly categorize current solutions into the following types:
 * **Early Iterative Retrieval**: Papers exploring early mechanisms of iterative retrieval.
@@ -25,6 +22,11 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
   year={2025}
 }
 ```
+
+## 🔥 News
+- **[2026-ACL]** 🎉 Our survey paper [A Survey of LLM-based Deep Search Agents](https://arxiv.org/abs/2508.05668) has been accepted to **ACL 2026 Main Conference**!
+
+
 
 ## Table of Contents
 
