@@ -220,6 +220,14 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.4 | [CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation](https://arxiv.org/abs/2604.25182v1) | arXiv |
+| 2026.4 | [How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum](https://arxiv.org/abs/2604.25907v1) | arXiv |
+| 2026.4 | [Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization](https://arxiv.org/abs/2604.20714) | arXiv |
+| 2026.4 | [OThink-SRR1: Search, Refine and Reasoning with Reinforced Learning for Large Language Models](https://arxiv.org/abs/2604.19766) | arXiv |
+| 2026.4 | [DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data](https://arxiv.org/abs/2604.19859) | arXiv |
+| 2026.4 | [$\pi$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data](https://arxiv.org/abs/2604.14054) | arXiv |
+| 2026.4 | [Mind DeepResearch Technical Report](https://arxiv.org/abs/2604.14518) | arXiv |
+| 2026.4 | [Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization](https://arxiv.org/abs/2604.14267) | arXiv |
 | 2026.4 | [ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning](https://arxiv.org/abs/2604.02006v1) | arXiv |
 | 2026.4 | [ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents](https://arxiv.org/abs/2604.01664) | arXiv |
 | 2026.4 | [WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search](https://arxiv.org/abs/2604.06177v1) | arXiv |
@@ -466,6 +474,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | MoreHopQA     | [MoreHopQA: More Than Multi-hop Reasoning](https://arxiv.org/abs/2406.13397)                                                                                           | arXiv 2024    |
 | CofCA         | [Cofca: A Step-Wise Counterfactual Multi-hop QA benchmark](https://arxiv.org/abs/2402.11924v5)                                                                           | ICLR 2025     |
 | BRIDGE        | [BRIDGE: Benchmark for multi-hop Reasoning In long multimodal Documents with Grounded Evidence](https://arxiv.org/abs/2603.07931) |   arXiv 2026      |
+| M$^3$-VQA | [M$^3$-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering](https://arxiv.org/abs/2604.25122) | arXiv 2026 |
 
 
 ### Challenging QA for Deep Search
@@ -565,6 +574,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DRACO | [DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685) |       arXiv 2026      |
 | DeepResearch-9K       | [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://arxiv.org/abs/2603.01152) | arXiv 2026      |
 | KDR-Bench | [Towards Knowledgeable Deep Research: Framework and Benchmark](https://arxiv.org/abs/2604.07720) | arXiv 2026 |
+| DR$^{3}$-Eval | [DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation](https://arxiv.org/abs/2604.14683) | arXiv 2026 |
+| AutoResearchBench | [AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery](https://arxiv.org/abs/2604.25256) | arXiv 2026 |
 
 
 ### Domain-specific dataset
@@ -594,6 +605,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | FinRpt	| [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322) |	arXiv 2025	|
 | LocalSearchBench	| [LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services](https://arxiv.org/abs/2512.07436) |	arXiv 2025	|
 | HotelQuEST    | [HotelQuEST: Balancing Quality and Efficiency in Agentic Search](https://arxiv.org/abs/2602.23949) |  arXiv 2026      |
+| Deep FinResearch Bench | [Deep FinResearch Bench: Evaluating AI&#39;s Ability to Conduct Professional Financial Investment Research](https://arxiv.org/abs/2604.21006) | arXiv 2026 |
 
 ### Other Aspect
 
@@ -625,6 +637,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | UIS-QA | [UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking](https://arxiv.org/abs/2603.08117) | arXiv 2026 |
 | BCAS | [Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search](https://arxiv.org/abs/2603.08877) | arXiv 2026 |
 | MYSQA | [Language Models Don't Know What You Want: Evaluating Personalization in Deep Research Needs Real Users](https://arxiv.org/abs/2603.16120) | arXiv 2026 |
+| MERRIN | [MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments](https://arxiv.org/abs/2604.13418) | arXiv 2026 |
 
 
 Feel free to open an issue or PR to add new papers and benchmarks!
