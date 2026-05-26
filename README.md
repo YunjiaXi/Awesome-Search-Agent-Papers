@@ -52,6 +52,17 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.5 | [Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery](https://arxiv.org/abs/2605.10224) | arXiv |
+| 2026.5 | [PresentAgent-2: Towards Generalist Multimodal Presentation Agents](https://arxiv.org/abs/2605.11363) | arXiv |
+| 2026.5 | [PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement](https://arxiv.org/abs/2605.11225) | arXiv |
+| 2026.5 | [AutoLLMResearch: Training Research Agents for Automating LLM Experiment Configuration -- Learning from Cheap, Optimizing Expensive](https://arxiv.org/abs/2605.11518) | arXiv |
+| 2026.5 | [AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents](https://arxiv.org/abs/2605.11732) | arXiv |
+| 2026.5 | [ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling](https://arxiv.org/abs/2605.22102) | arXiv |
+| 2026.5 | [Parallel Context Compaction for Long-Horizon LLM Agent Serving](https://arxiv.org/abs/2605.23296) | arXiv |
+| 2026.5 | [The Context Gathering Decision Process: A POMDP Framework for Agentic Search](https://arxiv.org/abs/2605.07042) | arXiv |
+| 2026.5 | [AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases](https://arxiv.org/abs/2605.05538) | arXiv |
+| 2026.5 | [Inference-Time Budget Control for LLM Search Agents](https://arxiv.org/abs/2605.05701) | arXiv |
+| 2026.5 | [Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval](https://arxiv.org/abs/2605.06647) | arXiv |
 | 2026.4 | [Self-Optimizing Multi-Agent Systems for Deep Research](https://arxiv.org/abs/2604.02988) | arXiv |
 | 2026.4 | [InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking](https://arxiv.org/abs/2604.02971) | arXiv |
 | 2026.4 | [PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection](https://arxiv.org/abs/2604.05424) | arXiv |
@@ -181,6 +192,10 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.5 | [LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG](https://arxiv.org/abs/2605.06285) | arXiv |
+| 2026.5 | [LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents](https://arxiv.org/abs/2605.05191) | arXiv |
+| 2026.5 | [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036) | arXiv |
+| 2026.5 | [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://arxiv.org/abs/2605.04018) | arXiv |
 | 2026.4 | [Learning to Retrieve from Agent Trajectories](https://arxiv.org/abs/2604.04949) | arXiv |
 | 2026.4 | [Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents](https://arxiv.org/abs/2604.06753) | arXiv |
 | 2026.3 | [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/abs/2603.15594) | arXiv |
@@ -220,6 +235,19 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.5 | [PiCA: Pivot-Based Credit Assignment for Search Agentic Reinforcement Learning](https://arxiv.org/abs/2605.09287) | arXiv |
+| 2026.5 | [RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards](https://arxiv.org/abs/2605.10899) | arXiv |
+| 2026.5 | [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](https://arxiv.org/abs/2605.10832) | arXiv |
+| 2026.5 | [CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG](https://arxiv.org/abs/2605.11611) | arXiv |
+| 2026.5 | [Calibrating LLMs with Semantic-level Reward](https://arxiv.org/abs/2605.15588) | arXiv |
+| 2026.5 | [Argus: Evidence Assembly for Scalable Deep Research Agents](https://arxiv.org/abs/2605.16217) | arXiv |
+| 2026.5 | [SD-Search: On-Policy Hindsight Self-Distillation for Search-Augmented Reasoning](https://arxiv.org/abs/2605.18299) | arXiv |
+| 2026.5 | [Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning](https://arxiv.org/abs/2605.22511) | arXiv |
+| 2026.5 | [Co-ReAct: Rubrics as Step-Level Collaborators for ReAct Agents](https://arxiv.org/abs/2605.23590) | arXiv |
+| 2026.5 | [HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents](https://arxiv.org/abs/2605.07177) | arXiv |
+| 2026.5 | [Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents](https://arxiv.org/abs/2605.05702) | arXiv |
+| 2026.5 | [Self-Induced Outcome Potential: Turn-Level Credit Assignment for Agents without Verifiers](https://arxiv.org/abs/2605.04984) | arXiv |
+| 2026.4 | [OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search](https://arxiv.org/abs/2604.03675) | arXiv |
 | 2026.4 | [CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation](https://arxiv.org/abs/2604.25182v1) | arXiv |
 | 2026.4 | [How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum](https://arxiv.org/abs/2604.25907v1) | arXiv |
 | 2026.4 | [Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization](https://arxiv.org/abs/2604.20714) | arXiv |
