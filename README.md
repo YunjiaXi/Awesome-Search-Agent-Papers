@@ -403,7 +403,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2025.10 | [Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering](https://arxiv.org/abs/2510.14605) | arXiv	|
 | 2025.10 | [Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545) | arXiv	|
 | 2025.10	| [An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs](https://arxiv.org/abs/2510.14660) | arXiv	|
-| 2025.10	| [Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2510.14967) | arXiv	|
+| 2025.10	| [Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2510.14967) | ICLR 2026	|
 | 2025.10	| [Towards Agentic Self-Learning LLMs in Search Environment](https://arxiv.org/abs/2510.14253) | arXiv	|
 | 2025.10	| [From Faithfulness to Correctness: Generative Reward Models that Think Critically](https://arxiv.org/abs/2509.25409)	| arXiv	|
 | 2025.10	| [Beyond Turn Limits: Training Deep Search Agents with Dynamic Context Window](https://arxiv.org/abs/2510.08276) | arXiv	|
