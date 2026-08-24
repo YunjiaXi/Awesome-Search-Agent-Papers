@@ -55,6 +55,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2026.8 | [EviGraph: Evidence-Guided Autonomous Research Agents](https://arxiv.org/abs/2608.04738) | arXiv |
 | 2026.8 | [A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](https://arxiv.org/abs/2608.05791) | arXiv |
 | 2026.8 | [Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory](https://arxiv.org/abs/2608.10676) | arXiv |
+| 2026.8 | [ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction](https://arxiv.org/abs/2608.20920) | EMNLP 2026 Findings |
 | 2026.7 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | arXiv |
 | 2026.7 | [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://arxiv.org/abs/2607.24223) | arXiv |
 | 2026.7 | [Distilling Temporal Search and Reasoning: Evolving LLMs for Future Prediction via Harness-Assisted Efficient Data Synthesis](https://arxiv.org/abs/2607.25554) | arXiv |
