@@ -770,6 +770,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DDR-Bench	| [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](https://arxiv.org/abs/2602.02039) | 	arXiv 2026	|
 | WLC |	[Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590) | 	arXiv 2026	|
 | DRACO | [DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685) |       arXiv 2026      |
+| Super Research | [Super Research: Answering Highly Complex Questions with Large Language Models through Super Deep and Super Wide Research](https://arxiv.org/abs/2603.00582) | arXiv 2026 |
 | DeepResearch-9K       | [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://arxiv.org/abs/2603.01152) | arXiv 2026      |
 | KDR-Bench | [Towards Knowledgeable Deep Research: Framework and Benchmark](https://arxiv.org/abs/2604.07720) | arXiv 2026 |
 | DR$^{3}$-Eval | [DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation](https://arxiv.org/abs/2604.14683) | arXiv 2026 |
