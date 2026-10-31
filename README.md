@@ -454,7 +454,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2026.2	| [DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents](https://arxiv.org/abs/2602.07035) |	arXiv	|
 | 2026.2	| [Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation](https://arxiv.org/abs/2602.03619) |	arXiv	|
 | 2026.2	| [Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling](https://arxiv.org/abs/2602.03719) |	arXiv	|
-| 2026.2	| [Scaling Search-Augmented LLM Reasoning via Adaptive Information Control](https://arxiv.org/abs/2602.01672) |	arXiv	|
+| 2026.2	| [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/abs/2602.01672) |	EMNLP 2026	|
 | 2026.2	| [CRAFT: Calibrated Reasoning with Answer-Faithful Traces via Reinforcement Learning for Multi-Hop Question Answering](https://arxiv.org/abs/2602.01348) |	arXiv	|
 | 2026.2	| [TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization](https://arxiv.org/abs/2601.22776) |	arXiv	|
 | 2026.2	| [Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward](https://arxiv.org/abs/2602.00845) |	arXiv	|
