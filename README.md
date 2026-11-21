@@ -320,6 +320,7 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | 2026.10 | [Beyond Outcome Rewards: Constructing and Assigning Retrieval Credit for Search Agents](https://arxiv.org/abs/2610.10179) | arxiv |
 | 2026.10 | [Training Advisors for LLM Agents from Task Outcomes](https://arxiv.org/abs/2610.09858) | arxiv |
 | 2026.10 | [SOAR: Source-Aware Reinforcement Learning with Precise Credit Assignment for Search Agents](https://arxiv.org/abs/2610.13157) | arxiv |
+| 2026.10 | [MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234) | arxiv |
 | 2026.9 | [BRACE: Anchored Bellman-Residual Correction for Stale Critics in Asynchronous RL](https://arxiv.org/abs/2609.09783) | arxiv |
 | 2026.9 | [Reinforcement Learning with Decomposed Subtasks](https://arxiv.org/abs/2609.27035) | arxiv |
 | 2026.9 | [Boosting Deepresearch and LongContext Ability with Self-Generated Deepresearch Rollouts Traces](https://arxiv.org/abs/2609.20844) | arxiv |
